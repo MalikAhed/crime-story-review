@@ -8,4 +8,4 @@ Public HTML crime-story previews for review. Work in progress; no private produc
 - **Review ready:** completed production checks, awaiting review.
 - **YouTube ready:** only an explicitly approved exact revision.
 
-The current Mona Lisa draft remains in production. This static site does not store approvals: use the feedback-copy button and send your feedback to doty in chat. Original voice-reference samples and private production records are not included.
+Mona Lisa owner-voice v1 is user-approved and preserved under YouTube ready. Corrected no-cards v2.1 is a separate revision in production, awaiting its own approval. This static site does not store approvals: use the feedback-copy button and send your feedback to doty in chat. Original voice-reference samples and private production records are not included.
