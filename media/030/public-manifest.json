@@ -1,0 +1,530 @@
+{
+  "schema_version": 1,
+  "scope": "030-goya-wellington",
+  "formats": [
+    {
+      "id": "030-goya-wellington-long",
+      "format": "long",
+      "path": "narrated/030-long.html",
+      "sha256": "3e8c6745ff67e968f7a247e113748e54caca9dba3f700e6eaf2618ea33c77661",
+      "bytes": 120765,
+      "duration_seconds": 364.56,
+      "samples": 8749440,
+      "sample_rate": 24000,
+      "source_audio_sha256": "864f0062515122cfbc88c20e3b0802f117e2a5467eb0674106ba59c1d9364949",
+      "audio_parts": [
+        {
+          "path": "media/030/a61e2fbd4cec057d8404403403266a0363e8ad6ba56680769639f9249360ae30.bin",
+          "sha256": "a61e2fbd4cec057d8404403403266a0363e8ad6ba56680769639f9249360ae30",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/5d51171a0e340999aa4e479748e89edc7d7c03a921a85e08fd0ef397c69edf14.bin",
+          "sha256": "5d51171a0e340999aa4e479748e89edc7d7c03a921a85e08fd0ef397c69edf14",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/6a7889cb940d07f65094f93b3d8b1dd5790b5e1c5931774e96423b6be58f3780.bin",
+          "sha256": "6a7889cb940d07f65094f93b3d8b1dd5790b5e1c5931774e96423b6be58f3780",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/d72ed5486bb3ff64020e33796e3a0129f5766726088f3ca65cb4839cc0a15353.bin",
+          "sha256": "d72ed5486bb3ff64020e33796e3a0129f5766726088f3ca65cb4839cc0a15353",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/5443eaa2d4948346b012d29daa489668eb74dc9424690bc975f4cde236603621.bin",
+          "sha256": "5443eaa2d4948346b012d29daa489668eb74dc9424690bc975f4cde236603621",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/938b0cd705d9c90f0171cbba64b9cc46b1cdc6aed8e863c42216d4c9d8734ef3.bin",
+          "sha256": "938b0cd705d9c90f0171cbba64b9cc46b1cdc6aed8e863c42216d4c9d8734ef3",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/3188b15a7232efc5c91323e3ec66d64f622c96ab124bb1499018f4c8e4823f61.bin",
+          "sha256": "3188b15a7232efc5c91323e3ec66d64f622c96ab124bb1499018f4c8e4823f61",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/9d58bd7aedfcba196c5d4fb19ce1f38bbd41d3677deaf02cfb276047be81d893.bin",
+          "sha256": "9d58bd7aedfcba196c5d4fb19ce1f38bbd41d3677deaf02cfb276047be81d893",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/813f9d3837936cfbe545b7ca067e399a34c4fa9eadf8f8348a34cecd4782ed15.bin",
+          "sha256": "813f9d3837936cfbe545b7ca067e399a34c4fa9eadf8f8348a34cecd4782ed15",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/c136b247e8f94e62168f607b231d8b342f3c9b4e6e4989842b81f7c041a0d84c.bin",
+          "sha256": "c136b247e8f94e62168f607b231d8b342f3c9b4e6e4989842b81f7c041a0d84c",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/84a451594fc1567894830db31d57ddcf6e6eb58660a1a4287242b999d103ddf6.bin",
+          "sha256": "84a451594fc1567894830db31d57ddcf6e6eb58660a1a4287242b999d103ddf6",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/1dd0fa9383cdbc623fac58c27a8d6811eeb8d39121eeecf7b6d297c1a7ab7c5d.bin",
+          "sha256": "1dd0fa9383cdbc623fac58c27a8d6811eeb8d39121eeecf7b6d297c1a7ab7c5d",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/674b85d0d28932b12a96920e5abed2e9fe7a4c873d737e272fc63ab35919ff55.bin",
+          "sha256": "674b85d0d28932b12a96920e5abed2e9fe7a4c873d737e272fc63ab35919ff55",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/75372a4790ae5fbb663cea4eabb57649f23b07797ba150b20983fe386d41f6b8.bin",
+          "sha256": "75372a4790ae5fbb663cea4eabb57649f23b07797ba150b20983fe386d41f6b8",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/c9680010969afe73214e96d1b45f469de7bf5eb773a576e66312d7d8b3f87d43.bin",
+          "sha256": "c9680010969afe73214e96d1b45f469de7bf5eb773a576e66312d7d8b3f87d43",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/61cf5542ce84b0eb6c242563a23986cfa82d3a15c73686288b1548f0f9edb1ff.bin",
+          "sha256": "61cf5542ce84b0eb6c242563a23986cfa82d3a15c73686288b1548f0f9edb1ff",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/4dc034c825eff5babcb6df15d681c1d51c82519c8d698e906c84a24a28616363.bin",
+          "sha256": "4dc034c825eff5babcb6df15d681c1d51c82519c8d698e906c84a24a28616363",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/24df50804f62b3442ba6318d5752bb7cc6dfd17381ebf62fc03285b430843da9.bin",
+          "sha256": "24df50804f62b3442ba6318d5752bb7cc6dfd17381ebf62fc03285b430843da9",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/85ecc666b32d1de4a02b000cf1e5485c83539008f94179fde3cd67c9aa0f21cb.bin",
+          "sha256": "85ecc666b32d1de4a02b000cf1e5485c83539008f94179fde3cd67c9aa0f21cb",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/51680dbb73f525710475cce83d6482b19284893cb665be033cda638122e2ddd1.bin",
+          "sha256": "51680dbb73f525710475cce83d6482b19284893cb665be033cda638122e2ddd1",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/9cfc313d6608f1a112c9bdd486037dac0f95276b25ec74adec4442906ba92261.bin",
+          "sha256": "9cfc313d6608f1a112c9bdd486037dac0f95276b25ec74adec4442906ba92261",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/122c84a56262c4bcf87167f95194b1d66fc2b5a2d70d09ba243346c31c302ddc.bin",
+          "sha256": "122c84a56262c4bcf87167f95194b1d66fc2b5a2d70d09ba243346c31c302ddc",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/f8610fc428483e0d39dc21856761d9093a56ceb09c8ce38c235115f39148b320.bin",
+          "sha256": "f8610fc428483e0d39dc21856761d9093a56ceb09c8ce38c235115f39148b320",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/33256c1a97886575b9187d6b4b322d730e0287155809797e52a458336ef5a0a8.bin",
+          "sha256": "33256c1a97886575b9187d6b4b322d730e0287155809797e52a458336ef5a0a8",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/0277df85c6f23e28db902bfa976696c06675cd126d7eb9d4e519ccbe467438da.bin",
+          "sha256": "0277df85c6f23e28db902bfa976696c06675cd126d7eb9d4e519ccbe467438da",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/aede59b930cbc8665aae3841a5f5bc4ef0cf8af2420230c3f9bccfa585a85ec2.bin",
+          "sha256": "aede59b930cbc8665aae3841a5f5bc4ef0cf8af2420230c3f9bccfa585a85ec2",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/d4408c47d49962c0db52b3c03b642956c324e2751bde6ed767b554d6b30ed1ee.bin",
+          "sha256": "d4408c47d49962c0db52b3c03b642956c324e2751bde6ed767b554d6b30ed1ee",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/74b49d9bc10cce19ce9faff07502d30d02676b9bc6648fee710c212fe35c88e8.bin",
+          "sha256": "74b49d9bc10cce19ce9faff07502d30d02676b9bc6648fee710c212fe35c88e8",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/b9ed40ef3b71fb0f71b4a282afa650ef6818afbe28687e2c22f9f8558982d0ad.bin",
+          "sha256": "b9ed40ef3b71fb0f71b4a282afa650ef6818afbe28687e2c22f9f8558982d0ad",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/1c9f01c685673f3635170427d2f7e5fc1963b4d58f7727352023effead76fb58.bin",
+          "sha256": "1c9f01c685673f3635170427d2f7e5fc1963b4d58f7727352023effead76fb58",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/c9a90d37153f668f01cc85199f645a84929baca51aec5c07c0f634635aad4727.bin",
+          "sha256": "c9a90d37153f668f01cc85199f645a84929baca51aec5c07c0f634635aad4727",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/ff925a369343d0c85648c08bd2873ac268e68c9c1297fa420833049e2f4ec913.bin",
+          "sha256": "ff925a369343d0c85648c08bd2873ac268e68c9c1297fa420833049e2f4ec913",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/30ac0f27e6a641025f23b7759dddbf98f847b9de2d31ca43aec3e82f4b500e78.bin",
+          "sha256": "30ac0f27e6a641025f23b7759dddbf98f847b9de2d31ca43aec3e82f4b500e78",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/087578629381f8b0e57983a5b15a0ed3af2edb8930b117eeab2f519347c5052c.bin",
+          "sha256": "087578629381f8b0e57983a5b15a0ed3af2edb8930b117eeab2f519347c5052c",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/56496e693770395f1391e3dc36da84a6bf9596688a9927552c92c4f2c1570dae.bin",
+          "sha256": "56496e693770395f1391e3dc36da84a6bf9596688a9927552c92c4f2c1570dae",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/ce65bf5dff33ecccbcbe1493ddb5b41a4afafaba15607045e0fb959c83b6a2fd.bin",
+          "sha256": "ce65bf5dff33ecccbcbe1493ddb5b41a4afafaba15607045e0fb959c83b6a2fd",
+          "bytes": 75421
+        }
+      ],
+      "audio_bytes": 9250461,
+      "audio_byte_identical_to_generated_master": true,
+      "canonical_assembly_sha256": "d1c7a707b0b13c3e89c32b6a2a6cde1190b08bae5bf7bebd4ff6fc49507c7150",
+      "caption_cues": 102,
+      "scene_count": 48,
+      "raw_asr_edits_retained": 77,
+      "review_windows": 26,
+      "priority_windows": 8,
+      "owner_approved": false,
+      "fully_qa_approved": false,
+      "listening_required": true
+    },
+    {
+      "id": "030-goya-wellington-short-1",
+      "format": "short-1",
+      "path": "narrated/030-short-1.html",
+      "sha256": "ff63c9729e2c364939b6d563c61f343e874f41907ae91964d18cfbf0782ea993",
+      "bytes": 22733,
+      "duration_seconds": 41.12,
+      "samples": 986880,
+      "sample_rate": 24000,
+      "source_audio_sha256": "84ceae2abf03f3c0ac17b121572665e3a59eefc52f0070caf88ca728c3a29ac3",
+      "audio_parts": [
+        {
+          "path": "media/030/f65832302f1357e597e00dc481c6c9b2e8118061e570759121322580d7c730e4.bin",
+          "sha256": "f65832302f1357e597e00dc481c6c9b2e8118061e570759121322580d7c730e4",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/9283d7c4e6c96bd9ec00545876f0ba58a24e3fd48d145684e45ebf0f8a434f93.bin",
+          "sha256": "9283d7c4e6c96bd9ec00545876f0ba58a24e3fd48d145684e45ebf0f8a434f93",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/ecd2605a7565a95da7d0782563cda45fac38fade3927e4efd2054a4086b279a2.bin",
+          "sha256": "ecd2605a7565a95da7d0782563cda45fac38fade3927e4efd2054a4086b279a2",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/d107840835d63049f1623689d351380de6bc03af50ff010d15b1e44f5eff9416.bin",
+          "sha256": "d107840835d63049f1623689d351380de6bc03af50ff010d15b1e44f5eff9416",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/8184d95f629797ed52ba09b834a5cf5abdec2eda56478f2d2d0464a985470ca2.bin",
+          "sha256": "8184d95f629797ed52ba09b834a5cf5abdec2eda56478f2d2d0464a985470ca2",
+          "bytes": 2247
+        }
+      ],
+      "audio_bytes": 1050823,
+      "audio_byte_identical_to_generated_master": true,
+      "canonical_assembly_sha256": "6228fd6c1aa12918a3a20ba50bc04fb8b39ff1b3477e51958e821c94d4e7dfc3",
+      "caption_cues": 17,
+      "scene_count": 7,
+      "raw_asr_edits_retained": 15,
+      "review_windows": 4,
+      "priority_windows": 1,
+      "owner_approved": false,
+      "fully_qa_approved": false,
+      "listening_required": true
+    },
+    {
+      "id": "030-goya-wellington-short-2",
+      "format": "short-2",
+      "path": "narrated/030-short-2.html",
+      "sha256": "5d70300bba7842aae505a28eb1294bbe7d65b1c0c51f4bd0f22350ed2e8974a3",
+      "bytes": 24639,
+      "duration_seconds": 42.76,
+      "samples": 1026240,
+      "sample_rate": 24000,
+      "source_audio_sha256": "f36f423bddc7d8e57607fcedef73d55060e767ccd5d88fc9880dffd5d1a4e792",
+      "audio_parts": [
+        {
+          "path": "media/030/72159b302739b46bc2580fb6ce159299de84d93a42cfc7c5d08f550e3088e95d.bin",
+          "sha256": "72159b302739b46bc2580fb6ce159299de84d93a42cfc7c5d08f550e3088e95d",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/9c95c168caf4e33dc0bad1e9cb7f9d4f469f2ad59b4da317afa89518ceadb92a.bin",
+          "sha256": "9c95c168caf4e33dc0bad1e9cb7f9d4f469f2ad59b4da317afa89518ceadb92a",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/14d23d65336df17eeaaf92cb6fba74d6a8d9a2671579646c94eb140d6082a5a8.bin",
+          "sha256": "14d23d65336df17eeaaf92cb6fba74d6a8d9a2671579646c94eb140d6082a5a8",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/d8afa7e48099f885ab15e8aa8fe63aeea816b0c244ae45ad67cfb3bd6a457db5.bin",
+          "sha256": "d8afa7e48099f885ab15e8aa8fe63aeea816b0c244ae45ad67cfb3bd6a457db5",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/62795ffc27a8b090b27887091d1cc06a69fdc5cb60f760ebc569ecc1fa054688.bin",
+          "sha256": "62795ffc27a8b090b27887091d1cc06a69fdc5cb60f760ebc569ecc1fa054688",
+          "bytes": 40016
+        }
+      ],
+      "audio_bytes": 1088592,
+      "audio_byte_identical_to_generated_master": true,
+      "canonical_assembly_sha256": "d21c38a848be71975bb9edb94333f3946653552eb1d50c0ee639091ce7a98665",
+      "caption_cues": 18,
+      "scene_count": 7,
+      "raw_asr_edits_retained": 10,
+      "review_windows": 5,
+      "priority_windows": 3,
+      "owner_approved": false,
+      "fully_qa_approved": false,
+      "listening_required": true
+    },
+    {
+      "id": "030-goya-wellington-short-3",
+      "format": "short-3",
+      "path": "narrated/030-short-3.html",
+      "sha256": "122e66bf539748e70a3b1009c0a808bbc2686195a05b033b25d91d16bfd3be54",
+      "bytes": 20843,
+      "duration_seconds": 37.92,
+      "samples": 910080,
+      "sample_rate": 24000,
+      "source_audio_sha256": "965548898f163fa3d1cbde7b0e3cbc5501dc8a309e9d79bfc8446f78d5678582",
+      "audio_parts": [
+        {
+          "path": "media/030/7edcb9cc1c7c855131eb19ee8c81e065c532f44b009606efa57349ec617d2361.bin",
+          "sha256": "7edcb9cc1c7c855131eb19ee8c81e065c532f44b009606efa57349ec617d2361",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/c847707ced6df17cefadb042982e55b63db0dbf21599a413de4e2997aa895452.bin",
+          "sha256": "c847707ced6df17cefadb042982e55b63db0dbf21599a413de4e2997aa895452",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/05b85c5e84cae528d94dd4645b5b1117cbb62c5ae0063de85c47a0facf79212a.bin",
+          "sha256": "05b85c5e84cae528d94dd4645b5b1117cbb62c5ae0063de85c47a0facf79212a",
+          "bytes": 262144
+        },
+        {
+          "path": "media/030/6c8b2ebd6b4585a01238b5c08c2fe474d148ba525330e1e943f812279982d4ab.bin",
+          "sha256": "6c8b2ebd6b4585a01238b5c08c2fe474d148ba525330e1e943f812279982d4ab",
+          "bytes": 170819
+        }
+      ],
+      "audio_bytes": 957251,
+      "audio_byte_identical_to_generated_master": true,
+      "canonical_assembly_sha256": "1280816cb12b9b8bc4648ea6a2b5679561e03801d0f502cbad9c094aea85cb81",
+      "caption_cues": 16,
+      "scene_count": 6,
+      "raw_asr_edits_retained": 9,
+      "review_windows": 4,
+      "priority_windows": 1,
+      "owner_approved": false,
+      "fully_qa_approved": false,
+      "listening_required": true
+    }
+  ],
+  "priority_listening_windows": [
+    {
+      "sentence_id": "long-015",
+      "text": "Kempton Bunton would later say that a demand for one hundred and forty thousand pounds was meant to support television licences for pensioners.",
+      "start_sample": 2444160,
+      "end_sample": 2616960,
+      "start_seconds": 101.84,
+      "end_seconds": 109.04,
+      "reason": "Kempton Bunton → Captain Bunton; licences is recognized as licenses here; inspect the spoken name.",
+      "status": "Listening review required; ASR candidate, not a confirmed defect",
+      "format": "long",
+      "player_path": "narrated/030-long.html",
+      "href": "../../narrated/030-long.html?t=101.84&end=109.04&review=1"
+    },
+    {
+      "sentence_id": "long-018",
+      "text": "Bunton's explanation tied the missing painting to pensioners' television costs, bringing an everyday expense into a dispute over a costly public acquisition.",
+      "start_sample": 2963520,
+      "end_sample": 3163200,
+      "start_seconds": 123.48,
+      "end_seconds": 131.8,
+      "reason": "Bunton's → Budton's; uncommon-name recognition or pronunciation remains uncertain.",
+      "status": "Listening review required; ASR candidate, not a confirmed defect",
+      "format": "long",
+      "player_path": "narrated/030-long.html",
+      "href": "../../narrated/030-long.html?t=123.48&end=131.8&review=1"
+    },
+    {
+      "sentence_id": "long-019",
+      "text": "That stated purpose would become part of the story told around the case, while the criminal proceedings had particular accusations to resolve.",
+      "start_sample": 3166080,
+      "end_sample": 3360000,
+      "start_seconds": 131.92,
+      "end_seconds": 140.0,
+      "reason": "Transcript inserts Several between criminal and proceedings; inspect for an actual insertion/disfluency, not assumed from ASR alone.",
+      "status": "Listening review required; ASR candidate, not a confirmed defect",
+      "format": "long",
+      "player_path": "narrated/030-long.html",
+      "href": "../../narrated/030-long.html?t=131.92&end=140&review=1"
+    },
+    {
+      "sentence_id": "long-024",
+      "text": "On July nineteenth, nineteen sixty-five, Kempton Bunton surrendered, according to the museum's archive summary of his defence papers.",
+      "start_sample": 4079040,
+      "end_sample": 4282560,
+      "start_seconds": 169.96,
+      "end_seconds": 178.44,
+      "reason": "Kempton Bunton → Captain Bunton again; consistent ASR name substitution does not establish the spoken word.",
+      "status": "Listening review required; ASR candidate, not a confirmed defect",
+      "format": "long",
+      "player_path": "narrated/030-long.html",
+      "href": "../../narrated/030-long.html?t=169.96&end=178.44&review=1"
+    },
+    {
+      "sentence_id": "long-027",
+      "text": "One concerned stealing the painting, and another concerned stealing its frame, treating the two objects as distinct subjects of accusation.",
+      "start_sample": 4612800,
+      "end_sample": 4793280,
+      "start_seconds": 192.2,
+      "end_seconds": 199.72,
+      "reason": "One concerned → concern; inspect the initial One and tense ending. No sentence-sized omission is established.",
+      "status": "Listening review required; ASR candidate, not a confirmed defect",
+      "format": "long",
+      "player_path": "narrated/030-long.html",
+      "href": "../../narrated/030-long.html?t=192.2&end=199.72&review=1"
+    },
+    {
+      "sentence_id": "long-033",
+      "text": "Frank Whitford's contemporary report, republished by ArtReview, records acquittals on stealing the painting, both demands-with-menaces accusations, and public nuisance.",
+      "start_sample": 5854080,
+      "end_sample": 6100800,
+      "start_seconds": 243.92,
+      "end_seconds": 254.2,
+      "reason": "ArtReview → Arc Review; preserve exact title and check intelligibility.",
+      "status": "Listening review required; ASR candidate, not a confirmed defect",
+      "format": "long",
+      "player_path": "narrated/030-long.html",
+      "href": "../../narrated/030-long.html?t=243.92&end=254.2&review=1"
+    },
+    {
+      "sentence_id": "long-040",
+      "text": "The museum's archive summary records a confession in nineteen sixty-nine by Bunton's son, John Bunton.",
+      "start_sample": 7257600,
+      "end_sample": 7392960,
+      "start_seconds": 302.4,
+      "end_seconds": 308.04,
+      "reason": "John Bunton → John Bun; inspect surname ending rather than assuming omission.",
+      "status": "Listening review required; ASR candidate, not a confirmed defect",
+      "format": "long",
+      "player_path": "narrated/030-long.html",
+      "href": "../../narrated/030-long.html?t=302.4&end=308.04&review=1"
+    },
+    {
+      "sentence_id": "long-047",
+      "text": "The lasting puzzle is how a recovered painting, a separate frame and a later admission fit together, and the record gives each a different place.",
+      "start_sample": 8553600,
+      "end_sample": 8749440,
+      "start_seconds": 356.4,
+      "end_seconds": 364.56,
+      "reason": "Final a later admission → the later admission creates the two repeated-ngram flags. This is not evidence of a repeated sentence or phrase loop.",
+      "status": "Listening review required; ASR candidate, not a confirmed defect",
+      "format": "long",
+      "player_path": "narrated/030-long.html",
+      "href": "../../narrated/030-long.html?t=356.4&end=364.56&review=1"
+    },
+    {
+      "sentence_id": "short-1-005",
+      "text": "Kempton Bunton later said a demand matching the purchase price was intended to support pensioners' television licences.",
+      "start_sample": 675840,
+      "end_sample": 839040,
+      "start_seconds": 28.16,
+      "end_seconds": 34.96,
+      "reason": "Kempton → Captain; licences → licensees may be recognition or pronunciation. Listening required.",
+      "status": "Listening review required; ASR candidate, not a confirmed defect",
+      "format": "short-1",
+      "player_path": "narrated/030-short-1.html",
+      "href": "../../narrated/030-short-1.html?t=28.16&end=34.96&review=1"
+    },
+    {
+      "sentence_id": "short-2-003",
+      "text": "Kempton Bunton surrendered that July, and later faced five accusations.",
+      "start_sample": 497280,
+      "end_sample": 591360,
+      "start_seconds": 20.72,
+      "end_seconds": 24.64,
+      "reason": "Kempton Bunton → Captain Buns; inspect both name words.",
+      "status": "Listening review required; ASR candidate, not a confirmed defect",
+      "format": "short-2",
+      "player_path": "narrated/030-short-2.html",
+      "href": "../../narrated/030-short-2.html?t=20.72&end=24.64&review=1"
+    },
+    {
+      "sentence_id": "short-2-005",
+      "text": "Bunton denied intending to keep the painting permanently, an issue reports connect with the eventual painting verdict.",
+      "start_sample": 718080,
+      "end_sample": 876480,
+      "start_seconds": 29.92,
+      "end_seconds": 36.52,
+      "reason": "Bunton denied → but in denied; an issue → and issue. Could be recognition segmentation; no automatic defect finding.",
+      "status": "Listening review required; ASR candidate, not a confirmed defect",
+      "format": "short-2",
+      "player_path": "narrated/030-short-2.html",
+      "href": "../../narrated/030-short-2.html?t=29.92&end=36.52&review=1"
+    },
+    {
+      "sentence_id": "short-2-006",
+      "text": "The work had returned, but the trial still had to distinguish the accusations and decide what had been proved.",
+      "start_sample": 879360,
+      "end_sample": 1026240,
+      "start_seconds": 36.64,
+      "end_seconds": 42.76,
+      "reason": "proved → improved. Full closing thought is present; raw suffix mismatch does not establish audio truncation.",
+      "status": "Listening review required; ASR candidate, not a confirmed defect",
+      "format": "short-2",
+      "player_path": "narrated/030-short-2.html",
+      "href": "../../narrated/030-short-2.html?t=36.64&end=42.76&review=1"
+    },
+    {
+      "sentence_id": "short-3-001",
+      "text": "Kempton Bunton was acquitted of stealing Goya's portrait, but convicted of stealing its frame and sentenced to three months in prison.",
+      "start_sample": 0,
+      "end_sample": 173760,
+      "start_seconds": 0.0,
+      "end_seconds": 7.24,
+      "reason": "Kempton → Captain; sentenced → sentence. Name and word ending require listening review.",
+      "status": "Listening review required; ASR candidate, not a confirmed defect",
+      "format": "short-3",
+      "player_path": "narrated/030-short-3.html",
+      "href": "../../narrated/030-short-3.html?t=0&end=7.24&review=1"
+    }
+  ],
+  "raw_asr_edits_retained_total": 111,
+  "priority_windows_retained_total": 13,
+  "timing_authority": "Persisted24kHzPCM sample boundaries; audio.currentTime authoritative; no ASR timestamps used for sync.",
+  "review_notice_path": "media/030/review-notice.html",
+  "status": "Public review only; listening required; not owner or fullyQA approved",
+  "codec": "Byte-identical FLAC reconstructed from verified bounded binary parts; no transcoding",
+  "privacy": "Public render/review allowlist only. No voice reference, speaker embeddings, model/checkpoint metadata, privateSpace identifiers or private filesystem paths."
+}
