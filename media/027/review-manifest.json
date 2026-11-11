@@ -1,0 +1,691 @@
+{
+  "storyId": "027-hot-lotto-tipton",
+  "status": "review-ready-listening-required",
+  "ownerApproved": false,
+  "fullyQAApproved": false,
+  "listeningPerformed": false,
+  "tracks": [
+    {
+      "format": "long",
+      "player": "narrated/027-long.html",
+      "durationSeconds": 384.52,
+      "samples": 9228480,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sampleEncoding": "PCM16",
+      "audio": "media/027/9feaed5d27fbc32a09cb4e5acb9117a40623abd9141cdbf1c5a910b948d3a572.flac",
+      "audioSha256": "9feaed5d27fbc32a09cb4e5acb9117a40623abd9141cdbf1c5a910b948d3a572",
+      "masterWavSha256": "0ee83395b853aab718309ea9c9251a25b0a5a3453f19a118af676f440a494e16",
+      "masterPcmSha256": "61d4103a03a11b55b4e904ad1726a0c8e462a582b2219b5dc043345b4adb318d",
+      "sentenceCount": 45,
+      "disclosureCount": 1,
+      "captionTiming": "PCM sentence boundaries; proportional subdivisions, not word forced alignment",
+      "flags": [
+        {
+          "format": "long",
+          "sentenceId": "long-003",
+          "start": 14.44,
+          "end": 22.76,
+          "expected": "The numbers were right; what the Iowa Lottery could not establish was the information it wanted about who owned the ticket and how it had been purchased.",
+          "automatedASR": "The numbers were right. What the Iowa Lottery could not establish with the information it wanted about who owned the ticket and how it had been purchased.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        },
+        {
+          "format": "long",
+          "sentenceId": "long-005",
+          "start": 32.28,
+          "end": 39.76,
+          "expected": "The ticket began with a ten-dollar purchase in Des Moines on December twenty-third, twenty ten, covering two plays across five drawings.",
+          "automatedASR": "The ticket began with a $10 purchase in Des Moines on December 23, 2010, covering two plays across five drawings.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        },
+        {
+          "format": "long",
+          "sentenceId": "long-006",
+          "start": 39.88,
+          "end": 47.64,
+          "expected": "Six days later, one of those plays matched the Hot Lotto drawing, producing a jackpot advertised as sixteen and a half million dollars.",
+          "automatedASR": "Six days later, one of those plays matched the hot lotto drawing, producing a jackpot advertised to $16.5 million.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        },
+        {
+          "format": "long",
+          "sentenceId": "long-007",
+          "start": 47.76,
+          "end": 55.36,
+          "expected": "That was the annuity figure, while the alternative cash option was ten point eight million dollars, two ways of valuing the same prize.",
+          "automatedASR": "That was the annuity figure, while the alternative cash option was $10.8 million, two ways of valuing the same price.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        },
+        {
+          "format": "long",
+          "sentenceId": "long-008",
+          "start": 55.48,
+          "end": 63.12,
+          "expected": "A year after the drawing, lawyers presented the winning ticket on December twenty-ninth, twenty eleven, close to the deadline for making a claim.",
+          "automatedASR": "A year after the drawing, lawyers presented the winning ticket on December 29, 2011, close to the deadline for making a claim.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        },
+        {
+          "format": "long",
+          "sentenceId": "long-010",
+          "start": 70.08,
+          "end": 78.56,
+          "expected": "For a ticket with matching numbers, those missing answers became the obstacle between a multimillion-dollar claim and an actual payment to a winner.",
+          "automatedASR": "for a ticket with matching numbers. Those missing answers became the obstacle between a multi-million dollar claim and an actual payment to a winner.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        },
+        {
+          "format": "long",
+          "sentenceId": "long-011",
+          "start": 78.68,
+          "end": 87.28,
+          "expected": "Further meetings followed in January twenty twelve, without establishing the requested facts, and on January twenty-sixth the claim was withdrawn.",
+          "automatedASR": "Further meetings followed in January 2012, without establishing the requested facts. And on January 26, the claim was withdrawn.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        },
+        {
+          "format": "long",
+          "sentenceId": "long-014",
+          "start": 101.24,
+          "end": 108.48,
+          "expected": "On October ninth, twenty fourteen, authorities released surveillance video from the store, seeking help identifying the person who had bought it.",
+          "automatedASR": "On October 9th, 2014, authorities released surveillance video from the store seeking help identifying the person who had bought it.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        },
+        {
+          "format": "long",
+          "sentenceId": "long-016",
+          "start": 116.48,
+          "end": 125.0,
+          "expected": "He was arrested on January fifteenth, twenty fifteen, more than four years after the drawing that had produced the unpaid Iowa jackpot.",
+          "automatedASR": "It was arrested on January 15, 2015, more than four years after the drawing that had produced the unpaid Iowa jackpot.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        },
+        {
+          "format": "long",
+          "sentenceId": "long-018",
+          "start": 134.36,
+          "end": 143.16,
+          "expected": "Tipton worked for the Multi-State Lottery Association from two thousand three until twenty fifteen, rather than being an employee of the Iowa Lottery.",
+          "automatedASR": "Tipped and worked for the Multi-State Lottery Association from 2003 until 2015, rather than being an employee of the Iowa Lottery.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        },
+        {
+          "format": "long",
+          "sentenceId": "long-025",
+          "start": 194.68,
+          "end": 204.68,
+          "expected": "A narrow theory concerning a January seventeenth, twenty twelve redemption attempt could still be retried, rather than the whole original prosecution proceeding unchanged.",
+          "automatedASR": "A narrow theory concerning a January 17, 2012 redemption attempt could still be retried, rather than the whole original prosecution proceeding unchanged.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        },
+        {
+          "format": "long",
+          "sentenceId": "long-026",
+          "start": 204.8,
+          "end": 215.24,
+          "expected": "The appeal turned on legal questions including the time limits for prosecution, so treating its outcome as either two surviving convictions or blanket factual exoneration would mislead.",
+          "automatedASR": "The appeal turned on legal questions, including the time limits for prosecution, so treating its outcomes either to surviving convictions or blanket factual exoneration would mislead.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        },
+        {
+          "format": "long",
+          "sentenceId": "long-027",
+          "start": 215.36,
+          "end": 225.12,
+          "expected": "A separate, broader resolution was already developing: a comprehensive agreement dated June twelfth preceded Tipton's Iowa guilty plea on June twenty-ninth, twenty seventeen.",
+          "automatedASR": "A separate, broader resolution was already developing. A comprehensive agreement dated June 12 preceded Tipton's Iowa guilty plea on June 29, 2017.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        },
+        {
+          "format": "long",
+          "sentenceId": "long-029",
+          "start": 232.84,
+          "end": 242.08,
+          "expected": "In the plea account reported by the Associated Press, Tipton acknowledged writing software that made lottery results predictable and providing numbers to other people.",
+          "automatedASR": "In the plea account reported by the Associated Press, tipped and acknowledged writing software that made lottery results predictable and providing numbers to other people.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        },
+        {
+          "format": "long",
+          "sentenceId": "long-032",
+          "start": 260.24,
+          "end": 269.64,
+          "expected": "The essential breach of trust was straightforward: someone inside the lottery's supporting organization acknowledged manipulating results and passing information to people who could profit.",
+          "automatedASR": "The essential breach of trust was straightforward. Someone inside the lottery supporting organization acknowledged manipulating results and passing information to people who could profit.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        },
+        {
+          "format": "long",
+          "sentenceId": "long-034",
+          "start": 278.28,
+          "end": 286.56,
+          "expected": "The broader case also produced guilty pleas by Tommy Tipton and Robert Rhodes, according to the Iowa Lottery's statement following Eddie Tipton's sentencing.",
+          "automatedASR": "The broader case also produced guilty pleas by Tommy Tipton and Robert Rhodes, according to the Iowa Lottery statement following Eddie Tipton's sentencing.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        },
+        {
+          "format": "long",
+          "sentenceId": "long-035",
+          "start": 286.68,
+          "end": 295.52,
+          "expected": "Their outcomes do not make every lawyer or intermediary involved in presenting the Iowa ticket a guilty participant merely because that person handled the claim.",
+          "automatedASR": "Their outcomes do not make every lawyer or intermediary involve in presenting the Iowa ticket a guilty participant merely because that person handled the claim.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        },
+        {
+          "format": "long",
+          "sentenceId": "long-036",
+          "start": 295.64,
+          "end": 305.92,
+          "expected": "On August twenty-second, twenty seventeen, Eddie Tipton received a prison sentence of up to twenty-five years, with contemporaneous reporting corroborating the agency's chronology.",
+          "automatedASR": "On August 22, 2017, Eddie Tipton received a prison sentence of up to 25 years, with contemporaneous reporting corroborating the agency's chronology.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        },
+        {
+          "format": "long",
+          "sentenceId": "long-039",
+          "start": 321.56,
+          "end": 329.56,
+          "expected": "An order to repay money also does not establish how much was recovered, and adding the Iowa prize to restitution would give a misleading total.",
+          "automatedASR": "In order to repay money also does not establish how much was recovered, and adding the Iowa price to restitution would give a misleading total.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        },
+        {
+          "format": "long",
+          "sentenceId": "long-041",
+          "start": 339.04,
+          "end": 347.32,
+          "expected": "In July twenty twenty-two, the Associated Press reported that Tipton had been released on parole on July fifteenth, citing prisoner records.",
+          "automatedASR": "In July 2022, the Associated Press reported that Tipton had been released on parole on July 15, citing prisoner records.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        },
+        {
+          "format": "long",
+          "sentenceId": "long-045",
+          "start": 374.6,
+          "end": 384.52,
+          "expected": "The legal ending rests on the separate twenty seventeen plea and sentence, not on pretending the earlier convictions survived unchanged or the Iowa jackpot was paid.",
+          "automatedASR": "The legal ending rests on the separate 2017 plea and sentence, not on pretending the earlier conviction survived unchanged or the Iowa jackpot was paid.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        }
+      ]
+    },
+    {
+      "format": "short-1",
+      "player": "narrated/027-short-1.html",
+      "durationSeconds": 33.92,
+      "samples": 814080,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sampleEncoding": "PCM16",
+      "audio": "media/027/313cfc6cb9c496e79619a461f22f74ed3980e53d4ed1259c7bf8e5bd2eec7c79.flac",
+      "audioSha256": "313cfc6cb9c496e79619a461f22f74ed3980e53d4ed1259c7bf8e5bd2eec7c79",
+      "masterWavSha256": "2df51dfcf01958f41e60fc6dbf88e54868ecb7528763d850d41b93903eda35e4",
+      "masterPcmSha256": "da14b7ee3665585a7eeee1e8591af84f328592ebbd79cc3a24628fc2704c09c2",
+      "sentenceCount": 5,
+      "disclosureCount": 1,
+      "captionTiming": "PCM sentence boundaries; proportional subdivisions, not word forced alignment",
+      "flags": [
+        {
+          "format": "short-1",
+          "sentenceId": "short-1-001",
+          "start": 0.0,
+          "end": 6.8,
+          "expected": "A ticket matched an Iowa jackpot advertised at sixteen and a half million dollars, yet the prize was never paid.",
+          "automatedASR": "A ticket matched an Iowa jackpot advertised at $16.5 million, yet the price was never paid.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        },
+        {
+          "format": "short-1",
+          "sentenceId": "short-1-003",
+          "start": 11.88,
+          "end": 20.64,
+          "expected": "Lawyers presented it less than two hours before the December twenty-ninth, twenty eleven deadline, without the ownership and purchase details officials sought.",
+          "automatedASR": "Lawyers presented it less than two hours before the December 29th, 2011 deadline, without the ownership and purchase details official sought.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        },
+        {
+          "format": "short-1",
+          "sentenceId": "short-1-005",
+          "start": 26.08,
+          "end": 33.92,
+          "expected": "A criminal investigation followed, and authorities later released store surveillance video to help identify the person who had bought the winning ticket.",
+          "automatedASR": "A criminal investigation followed, an authorities later released Store Surveillance video to help identify the person who had bought the winning ticket.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        }
+      ]
+    },
+    {
+      "format": "short-2",
+      "player": "narrated/027-short-2.html",
+      "durationSeconds": 35.16,
+      "samples": 843840,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sampleEncoding": "PCM16",
+      "audio": "media/027/0f6d125decada66543fe3bca661adf6d529f3d12aff5b4cfe43524329833dcee.flac",
+      "audioSha256": "0f6d125decada66543fe3bca661adf6d529f3d12aff5b4cfe43524329833dcee",
+      "masterWavSha256": "7b8977406e752ef60147913928cd4d8e73dbac11e5086ad582969fe34793dcfe",
+      "masterPcmSha256": "4752b9133da2e7c61cfecbc6def2b9f18ac5602a45b216e6f90e67f8a9640698",
+      "sentenceCount": 5,
+      "disclosureCount": 1,
+      "captionTiming": "PCM sentence boundaries; proportional subdivisions, not word forced alignment",
+      "flags": [
+        {
+          "format": "short-2",
+          "sentenceId": "short-2-003",
+          "start": 12.6,
+          "end": 19.56,
+          "expected": "He worked for the Multi-State Lottery Association, serving as computer information security director during his last two years there.",
+          "automatedASR": "He worked for the Multistate Lottery Association, serving as Computer Information Security Director during his last two years there.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        }
+      ]
+    },
+    {
+      "format": "short-3",
+      "player": "narrated/027-short-3.html",
+      "durationSeconds": 37.96,
+      "samples": 911040,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sampleEncoding": "PCM16",
+      "audio": "media/027/62158990828936cf10ce4808a1433644db3e0be7ca26862e9ca7f37cf0faf4f3.flac",
+      "audioSha256": "62158990828936cf10ce4808a1433644db3e0be7ca26862e9ca7f37cf0faf4f3",
+      "masterWavSha256": "71f179056464635cd50a5d92ba76df81310ca11f6edd042d17b7545260253000",
+      "masterPcmSha256": "55edcc34590b415d5b225b90e17abffd1b2e8849d676af63bff1c74950cfe609",
+      "sentenceCount": 6,
+      "disclosureCount": 1,
+      "captionTiming": "PCM sentence boundaries; proportional subdivisions, not word forced alignment",
+      "flags": [
+        {
+          "format": "short-3",
+          "sentenceId": "short-3-001",
+          "start": 0.0,
+          "end": 5.64,
+          "expected": "Tipton's broader plea was separate from two earlier Iowa convictions that did not survive intact.",
+          "automatedASR": "Tipton's broader plea was separate from two earlier Iowa convictions that did not survive in tact.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        }
+      ]
+    }
+  ],
+  "unresolvedListeningFlags": [
+    {
+      "format": "long",
+      "sentenceId": "long-003",
+      "start": 14.44,
+      "end": 22.76,
+      "expected": "The numbers were right; what the Iowa Lottery could not establish was the information it wanted about who owned the ticket and how it had been purchased.",
+      "automatedASR": "The numbers were right. What the Iowa Lottery could not establish with the information it wanted about who owned the ticket and how it had been purchased.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "long",
+      "sentenceId": "long-005",
+      "start": 32.28,
+      "end": 39.76,
+      "expected": "The ticket began with a ten-dollar purchase in Des Moines on December twenty-third, twenty ten, covering two plays across five drawings.",
+      "automatedASR": "The ticket began with a $10 purchase in Des Moines on December 23, 2010, covering two plays across five drawings.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "long",
+      "sentenceId": "long-006",
+      "start": 39.88,
+      "end": 47.64,
+      "expected": "Six days later, one of those plays matched the Hot Lotto drawing, producing a jackpot advertised as sixteen and a half million dollars.",
+      "automatedASR": "Six days later, one of those plays matched the hot lotto drawing, producing a jackpot advertised to $16.5 million.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "long",
+      "sentenceId": "long-007",
+      "start": 47.76,
+      "end": 55.36,
+      "expected": "That was the annuity figure, while the alternative cash option was ten point eight million dollars, two ways of valuing the same prize.",
+      "automatedASR": "That was the annuity figure, while the alternative cash option was $10.8 million, two ways of valuing the same price.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "long",
+      "sentenceId": "long-008",
+      "start": 55.48,
+      "end": 63.12,
+      "expected": "A year after the drawing, lawyers presented the winning ticket on December twenty-ninth, twenty eleven, close to the deadline for making a claim.",
+      "automatedASR": "A year after the drawing, lawyers presented the winning ticket on December 29, 2011, close to the deadline for making a claim.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "long",
+      "sentenceId": "long-010",
+      "start": 70.08,
+      "end": 78.56,
+      "expected": "For a ticket with matching numbers, those missing answers became the obstacle between a multimillion-dollar claim and an actual payment to a winner.",
+      "automatedASR": "for a ticket with matching numbers. Those missing answers became the obstacle between a multi-million dollar claim and an actual payment to a winner.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "long",
+      "sentenceId": "long-011",
+      "start": 78.68,
+      "end": 87.28,
+      "expected": "Further meetings followed in January twenty twelve, without establishing the requested facts, and on January twenty-sixth the claim was withdrawn.",
+      "automatedASR": "Further meetings followed in January 2012, without establishing the requested facts. And on January 26, the claim was withdrawn.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "long",
+      "sentenceId": "long-014",
+      "start": 101.24,
+      "end": 108.48,
+      "expected": "On October ninth, twenty fourteen, authorities released surveillance video from the store, seeking help identifying the person who had bought it.",
+      "automatedASR": "On October 9th, 2014, authorities released surveillance video from the store seeking help identifying the person who had bought it.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "long",
+      "sentenceId": "long-016",
+      "start": 116.48,
+      "end": 125.0,
+      "expected": "He was arrested on January fifteenth, twenty fifteen, more than four years after the drawing that had produced the unpaid Iowa jackpot.",
+      "automatedASR": "It was arrested on January 15, 2015, more than four years after the drawing that had produced the unpaid Iowa jackpot.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "long",
+      "sentenceId": "long-018",
+      "start": 134.36,
+      "end": 143.16,
+      "expected": "Tipton worked for the Multi-State Lottery Association from two thousand three until twenty fifteen, rather than being an employee of the Iowa Lottery.",
+      "automatedASR": "Tipped and worked for the Multi-State Lottery Association from 2003 until 2015, rather than being an employee of the Iowa Lottery.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "long",
+      "sentenceId": "long-025",
+      "start": 194.68,
+      "end": 204.68,
+      "expected": "A narrow theory concerning a January seventeenth, twenty twelve redemption attempt could still be retried, rather than the whole original prosecution proceeding unchanged.",
+      "automatedASR": "A narrow theory concerning a January 17, 2012 redemption attempt could still be retried, rather than the whole original prosecution proceeding unchanged.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "long",
+      "sentenceId": "long-026",
+      "start": 204.8,
+      "end": 215.24,
+      "expected": "The appeal turned on legal questions including the time limits for prosecution, so treating its outcome as either two surviving convictions or blanket factual exoneration would mislead.",
+      "automatedASR": "The appeal turned on legal questions, including the time limits for prosecution, so treating its outcomes either to surviving convictions or blanket factual exoneration would mislead.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "long",
+      "sentenceId": "long-027",
+      "start": 215.36,
+      "end": 225.12,
+      "expected": "A separate, broader resolution was already developing: a comprehensive agreement dated June twelfth preceded Tipton's Iowa guilty plea on June twenty-ninth, twenty seventeen.",
+      "automatedASR": "A separate, broader resolution was already developing. A comprehensive agreement dated June 12 preceded Tipton's Iowa guilty plea on June 29, 2017.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "long",
+      "sentenceId": "long-029",
+      "start": 232.84,
+      "end": 242.08,
+      "expected": "In the plea account reported by the Associated Press, Tipton acknowledged writing software that made lottery results predictable and providing numbers to other people.",
+      "automatedASR": "In the plea account reported by the Associated Press, tipped and acknowledged writing software that made lottery results predictable and providing numbers to other people.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "long",
+      "sentenceId": "long-032",
+      "start": 260.24,
+      "end": 269.64,
+      "expected": "The essential breach of trust was straightforward: someone inside the lottery's supporting organization acknowledged manipulating results and passing information to people who could profit.",
+      "automatedASR": "The essential breach of trust was straightforward. Someone inside the lottery supporting organization acknowledged manipulating results and passing information to people who could profit.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "long",
+      "sentenceId": "long-034",
+      "start": 278.28,
+      "end": 286.56,
+      "expected": "The broader case also produced guilty pleas by Tommy Tipton and Robert Rhodes, according to the Iowa Lottery's statement following Eddie Tipton's sentencing.",
+      "automatedASR": "The broader case also produced guilty pleas by Tommy Tipton and Robert Rhodes, according to the Iowa Lottery statement following Eddie Tipton's sentencing.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "long",
+      "sentenceId": "long-035",
+      "start": 286.68,
+      "end": 295.52,
+      "expected": "Their outcomes do not make every lawyer or intermediary involved in presenting the Iowa ticket a guilty participant merely because that person handled the claim.",
+      "automatedASR": "Their outcomes do not make every lawyer or intermediary involve in presenting the Iowa ticket a guilty participant merely because that person handled the claim.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "long",
+      "sentenceId": "long-036",
+      "start": 295.64,
+      "end": 305.92,
+      "expected": "On August twenty-second, twenty seventeen, Eddie Tipton received a prison sentence of up to twenty-five years, with contemporaneous reporting corroborating the agency's chronology.",
+      "automatedASR": "On August 22, 2017, Eddie Tipton received a prison sentence of up to 25 years, with contemporaneous reporting corroborating the agency's chronology.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "long",
+      "sentenceId": "long-039",
+      "start": 321.56,
+      "end": 329.56,
+      "expected": "An order to repay money also does not establish how much was recovered, and adding the Iowa prize to restitution would give a misleading total.",
+      "automatedASR": "In order to repay money also does not establish how much was recovered, and adding the Iowa price to restitution would give a misleading total.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "long",
+      "sentenceId": "long-041",
+      "start": 339.04,
+      "end": 347.32,
+      "expected": "In July twenty twenty-two, the Associated Press reported that Tipton had been released on parole on July fifteenth, citing prisoner records.",
+      "automatedASR": "In July 2022, the Associated Press reported that Tipton had been released on parole on July 15, citing prisoner records.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "long",
+      "sentenceId": "long-045",
+      "start": 374.6,
+      "end": 384.52,
+      "expected": "The legal ending rests on the separate twenty seventeen plea and sentence, not on pretending the earlier convictions survived unchanged or the Iowa jackpot was paid.",
+      "automatedASR": "The legal ending rests on the separate 2017 plea and sentence, not on pretending the earlier conviction survived unchanged or the Iowa jackpot was paid.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "short-1",
+      "sentenceId": "short-1-001",
+      "start": 0.0,
+      "end": 6.8,
+      "expected": "A ticket matched an Iowa jackpot advertised at sixteen and a half million dollars, yet the prize was never paid.",
+      "automatedASR": "A ticket matched an Iowa jackpot advertised at $16.5 million, yet the price was never paid.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "short-1",
+      "sentenceId": "short-1-003",
+      "start": 11.88,
+      "end": 20.64,
+      "expected": "Lawyers presented it less than two hours before the December twenty-ninth, twenty eleven deadline, without the ownership and purchase details officials sought.",
+      "automatedASR": "Lawyers presented it less than two hours before the December 29th, 2011 deadline, without the ownership and purchase details official sought.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "short-1",
+      "sentenceId": "short-1-005",
+      "start": 26.08,
+      "end": 33.92,
+      "expected": "A criminal investigation followed, and authorities later released store surveillance video to help identify the person who had bought the winning ticket.",
+      "automatedASR": "A criminal investigation followed, an authorities later released Store Surveillance video to help identify the person who had bought the winning ticket.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "short-2",
+      "sentenceId": "short-2-003",
+      "start": 12.6,
+      "end": 19.56,
+      "expected": "He worked for the Multi-State Lottery Association, serving as computer information security director during his last two years there.",
+      "automatedASR": "He worked for the Multistate Lottery Association, serving as Computer Information Security Director during his last two years there.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "short-3",
+      "sentenceId": "short-3-001",
+      "start": 0.0,
+      "end": 5.64,
+      "expected": "Tipton's broader plea was separate from two earlier Iowa convictions that did not survive intact.",
+      "automatedASR": "Tipton's broader plea was separate from two earlier Iowa convictions that did not survive in tact.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    }
+  ],
+  "illustrations": "AI illustrations include invented connective scenes, not actual footage or evidence. Disclosure is spoken exactly once per format.",
+  "files": [
+    {
+      "path": "media/027/0f6d125decada66543fe3bca661adf6d529f3d12aff5b4cfe43524329833dcee.flac",
+      "sha256": "0f6d125decada66543fe3bca661adf6d529f3d12aff5b4cfe43524329833dcee",
+      "bytes": 899693
+    },
+    {
+      "path": "media/027/2ca610dea39bffd08f5f5f45e572f58b63303b29f4fef8cd71970d10937dcc6a.webp",
+      "sha256": "2ca610dea39bffd08f5f5f45e572f58b63303b29f4fef8cd71970d10937dcc6a",
+      "bytes": 22604
+    },
+    {
+      "path": "media/027/313cfc6cb9c496e79619a461f22f74ed3980e53d4ed1259c7bf8e5bd2eec7c79.flac",
+      "sha256": "313cfc6cb9c496e79619a461f22f74ed3980e53d4ed1259c7bf8e5bd2eec7c79",
+      "bytes": 875183
+    },
+    {
+      "path": "media/027/4fad7e623b43b24f1aa97419e02e1d103840323080667fb72e45897f76321562.webp",
+      "sha256": "4fad7e623b43b24f1aa97419e02e1d103840323080667fb72e45897f76321562",
+      "bytes": 52004
+    },
+    {
+      "path": "media/027/62158990828936cf10ce4808a1433644db3e0be7ca26862e9ca7f37cf0faf4f3.flac",
+      "sha256": "62158990828936cf10ce4808a1433644db3e0be7ca26862e9ca7f37cf0faf4f3",
+      "bytes": 948057
+    },
+    {
+      "path": "media/027/6f7f60d1fd0c1bd9f4bf98a0c488016c02f778bbbe05c6c9ed76e89dd35db308.webp",
+      "sha256": "6f7f60d1fd0c1bd9f4bf98a0c488016c02f778bbbe05c6c9ed76e89dd35db308",
+      "bytes": 44424
+    },
+    {
+      "path": "media/027/846dd5e3186cb20857f0b08997209b1b2fd4daa684b679caf3d39a44e2e0dab0.webp",
+      "sha256": "846dd5e3186cb20857f0b08997209b1b2fd4daa684b679caf3d39a44e2e0dab0",
+      "bytes": 48386
+    },
+    {
+      "path": "media/027/9feaed5d27fbc32a09cb4e5acb9117a40623abd9141cdbf1c5a910b948d3a572.flac",
+      "sha256": "9feaed5d27fbc32a09cb4e5acb9117a40623abd9141cdbf1c5a910b948d3a572",
+      "bytes": 9668591
+    },
+    {
+      "path": "media/027/ab14626733d1f9829cfe878c88994bc89e833321338d5a946ddd2ef1873865db.webp",
+      "sha256": "ab14626733d1f9829cfe878c88994bc89e833321338d5a946ddd2ef1873865db",
+      "bytes": 57106
+    },
+    {
+      "path": "media/027/bc4cbc160ce87f13c53fa0514bcb41acc5f4dd224aac98e09580e6bcb606dac5.webp",
+      "sha256": "bc4cbc160ce87f13c53fa0514bcb41acc5f4dd224aac98e09580e6bcb606dac5",
+      "bytes": 79270
+    },
+    {
+      "path": "media/027/c5fe0f698d56a7d1a22b6ae7235b19eb3146996bcd7d3961ee4e6de044902b64.webp",
+      "sha256": "c5fe0f698d56a7d1a22b6ae7235b19eb3146996bcd7d3961ee4e6de044902b64",
+      "bytes": 42508
+    },
+    {
+      "path": "media/027/ea83b68a7153a1bf6282c612449f8afa56c0dfbd75f947d3cb599cf1638486ca.webp",
+      "sha256": "ea83b68a7153a1bf6282c612449f8afa56c0dfbd75f947d3cb599cf1638486ca",
+      "bytes": 77056
+    },
+    {
+      "path": "media/027/fc8600fd4c209d7b6c159bdea616bace700c70b0f3d30a9631bf34302ae9be05.webp",
+      "sha256": "fc8600fd4c209d7b6c159bdea616bace700c70b0f3d30a9631bf34302ae9be05",
+      "bytes": 64088
+    },
+    {
+      "path": "narrated/027-long.html",
+      "sha256": "518fb01416725f0ba12ff4df1671b15638dde707db059d6f41ebc8523138573f",
+      "bytes": 107835
+    },
+    {
+      "path": "narrated/027-short-1.html",
+      "sha256": "d366d80a1e68a478e0daa56f30e4256523a9c42cf042dd564d95904120c0a2e9",
+      "bytes": 27178
+    },
+    {
+      "path": "narrated/027-short-2.html",
+      "sha256": "572e72681aa9819c1e106ec43905724b37dca7cb13da1e68dceb9ec9ec7f0a86",
+      "bytes": 25315
+    },
+    {
+      "path": "narrated/027-short-3.html",
+      "sha256": "9c8c2b0060d33610c7710b7d7905bb3ec067b7782b1eac0ca0b4318efa89be26",
+      "bytes": 26121
+    }
+  ]
+}
