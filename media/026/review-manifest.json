@@ -1,0 +1,566 @@
+{
+  "storyId": "026-bullpen-forgery",
+  "status": "review-ready-listening-required",
+  "ownerApproved": false,
+  "fullyQAApproved": false,
+  "listeningPerformed": false,
+  "tracks": [
+    {
+      "format": "long",
+      "player": "narrated/026-long.html",
+      "durationSeconds": 365.4,
+      "samples": 8769600,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sampleEncoding": "PCM16",
+      "audio": "media/026/3ffe0d611297229c1509a73cd70fd136c2842d40642db1f22e5c0b01b7a174b1.flac",
+      "audioSha256": "3ffe0d611297229c1509a73cd70fd136c2842d40642db1f22e5c0b01b7a174b1",
+      "masterWavSha256": "d5df60aae47bab333ea5a54e70a58327f4ed8b75ec73e0825efb8e472c6e303a",
+      "masterPcmSha256": "58daf1a66ec03d4e85dcec5f4505bf022bf8b350c05515e6242731ad0a3b3dba",
+      "sentenceCount": 41,
+      "disclosureCount": 1,
+      "captionTiming": "PCM sentence boundaries; proportional subdivisions, not word forced alignment",
+      "flags": [
+        {
+          "format": "long",
+          "sentenceId": "long-001",
+          "start": 1.0,
+          "end": 2.2,
+          "expected": "The FBI found baseballs bearing purported signatures of Mother Teresa, but Operation Bullpen was about more than a strange name on sporting equipment.",
+          "automatedASR": "The FBI found baseball's bearing purported signatures of Mother Teresa, but Operation Bullpen was about more than a strange name on sporting equipment.",
+          "note": "Exact review window. Automated word alignment estimated 1.12–1.72 seconds; no listening judgment.",
+          "status": "listening-required-not-confirmed-error"
+        },
+        {
+          "format": "long",
+          "sentenceId": "long-006",
+          "start": 38.8,
+          "end": 48.4,
+          "expected": "The San Diego investigation began in nineteen ninety-seven, following an earlier Chicago operation called Foul Ball that the FBI says produced fourteen convictions.",
+          "automatedASR": "The San Diego investigation began in 1997 following an earlier Chicago operation called Fall Ball that the FBI says produced 14 convictions.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        },
+        {
+          "format": "long",
+          "sentenceId": "long-008",
+          "start": 57.8,
+          "end": 67.36,
+          "expected": "Contemporary Associated Press reporting described baseball players Tony Gwynn and Mark McGwire helping investigators identify counterfeit signatures attributed to them.",
+          "automatedASR": "Contemporary Associated Press reporting described baseball players Tony Gwyn and Mark McGuire helping investigators identify counterfeit signatures attributed to them.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        },
+        {
+          "format": "long",
+          "sentenceId": "long-009",
+          "start": 67.48,
+          "end": 77.76,
+          "expected": "Gwynn reported seeing a forged version of his signature at a team gift shop in Encinitas, a reminder that recognizable names could appear in apparently ordinary retail settings.",
+          "automatedASR": "when reported seeing a forged version of a signature at a team gift shop in Encinitas, a reminder that recognizable names could appear in apparently ordinary retail settings.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        },
+        {
+          "format": "long",
+          "sentenceId": "long-011",
+          "start": 86.76,
+          "end": 95.52,
+          "expected": "The distinction between a dishonest supplier and an unsuspecting seller would matter throughout the case, because distribution did not automatically prove knowledge of fraud.",
+          "automatedASR": "The distinction between a dishonest supplier and an unsuspecting seller would matter throughout the case because distribution did not automatically prove knowledge or fraud.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        },
+        {
+          "format": "long",
+          "sentenceId": "long-012",
+          "start": 95.64,
+          "end": 104.36,
+          "expected": "A court document filed against Gregory James Marino on April eleventh, two thousand, described the government's case against one alleged participant in that chain.",
+          "automatedASR": "A court document filed against Gregory James Marino on April 11, 2000, described the government's case against one alleged participant in that chain.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        },
+        {
+          "format": "long",
+          "sentenceId": "long-014",
+          "start": 114.36,
+          "end": 124.64,
+          "expected": "Its account described undercover purchases and court-authorized intercepted communications, methods aimed at establishing more than whether a signature looked convincing to a prospective buyer.",
+          "automatedASR": "Its account described undercover purchases and court-authorize intercept the communications. Methods aimed at establishing more than whether a signature looked convincing to a prospective buyer.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        },
+        {
+          "format": "long",
+          "sentenceId": "long-022",
+          "start": 187.2,
+          "end": 196.56,
+          "expected": "To see an individually documented outcome, move forward to Nathan William Harrison, a wholesale distributor associated with a business called LNN Enterprises.",
+          "automatedASR": "To see an individually documented outcome, move forward to Nathan William Harrison, a wholesale distributor associated with a business called Allen & Enterprises.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        },
+        {
+          "format": "long",
+          "sentenceId": "long-025",
+          "start": 214.12,
+          "end": 223.0,
+          "expected": "It also said he obtained goods directly from Greg and John Marino, placing the admitted distribution activity within a supply chain rather than an isolated retail sale.",
+          "automatedASR": "It also said he obtained goods directly from Greg and John Merino placing the admitted distribution activity within a supply chain rather than an isolated retail sale.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        },
+        {
+          "format": "long",
+          "sentenceId": "long-030",
+          "start": 256.48,
+          "end": 263.12,
+          "expected": "A baseball could still be a baseball, but its claimed signature was part of what those customers believed they were purchasing.",
+          "automatedASR": "A baseball could still be a baseball, but its claims signature was part of what those customers believed they were purchasing.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        },
+        {
+          "format": "long",
+          "sentenceId": "long-034",
+          "start": 288.16,
+          "end": 297.92,
+          "expected": "Its financial statistics also require care, because estimates of a counterfeit market, seized property, restitution, and prevented losses measure different things.",
+          "automatedASR": "Its financial statistics also require care because estimates of a counterfeit market, seized property, restitution, and prevented losses measured different things.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        },
+        {
+          "format": "long",
+          "sentenceId": "long-035",
+          "start": 298.04,
+          "end": 306.8,
+          "expected": "A market estimate is not a finding that this particular group stole that amount, and a valuation of seized merchandise is not cash returned to victims.",
+          "automatedASR": "A market estimate is not a finding that this particular group stole that amount. And evaluation of seized merchandise is not cash return to victims.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        },
+        {
+          "format": "long",
+          "sentenceId": "long-037",
+          "start": 317.48,
+          "end": 325.64,
+          "expected": "At a San Diego press conference in July two thousand five, the aftermath took a practical form that was different from a conviction or a restitution payment.",
+          "automatedASR": "At a San Diego press conference in July to early five, the aftermath took a practical form that was different from a conviction or restitution payment.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        },
+        {
+          "format": "long",
+          "sentenceId": "long-040",
+          "start": 343.76,
+          "end": 354.12,
+          "expected": "Operation Bullpen exposed both counterfeit goods and admitted criminal distribution, while its records also warn against treating every seller or every allegation as equally proved.",
+          "automatedASR": "Operation Ball Pen exposed both counterfeit goods and admitted criminal distribution, while its records also warn against treating every seller or every allegation is equally proved.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        }
+      ]
+    },
+    {
+      "format": "short-1",
+      "player": "narrated/026-short-1.html",
+      "durationSeconds": 40.44,
+      "samples": 970560,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sampleEncoding": "PCM16",
+      "audio": "media/026/f5c77199eb803015f5c2527a32ace7edd851c1b4899179cff5be48c538676333.flac",
+      "audioSha256": "f5c77199eb803015f5c2527a32ace7edd851c1b4899179cff5be48c538676333",
+      "masterWavSha256": "3940c845334b795b9eaac0335ce319631be615982d79b5bd93c88e6e6d0a0c80",
+      "masterPcmSha256": "d22cb3dbf770ac0e0b12a18b770c7268bff81926cef3f11fec6aea2785175e82",
+      "sentenceCount": 7,
+      "disclosureCount": 1,
+      "captionTiming": "PCM sentence boundaries; proportional subdivisions, not word forced alignment",
+      "flags": [
+        {
+          "format": "short-1",
+          "sentenceId": "short-1-004",
+          "start": 16.24,
+          "end": 23.08,
+          "expected": "Contemporary reporting described Tony Gwynn and Mark McGwire helping identify counterfeit signatures attributed to them.",
+          "automatedASR": "Contemporary reporting, the scribe Tony Gwen and Mark McWhire helping identify counterfeit signatures attributed to them.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        }
+      ]
+    },
+    {
+      "format": "short-2",
+      "player": "narrated/026-short-2.html",
+      "durationSeconds": 39.76,
+      "samples": 954240,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sampleEncoding": "PCM16",
+      "audio": "media/026/b6f09d3146b5f35393021249f3e782d843e8e253f4e909824be93bdf12257e68.flac",
+      "audioSha256": "b6f09d3146b5f35393021249f3e782d843e8e253f4e909824be93bdf12257e68",
+      "masterWavSha256": "6df2ba60df974cfd5d88504d3dbdf18cb2eaf5b8e3172ac015e483e15fa68da0",
+      "masterPcmSha256": "f40d50eb4bd767bdb6dd658625ee1c305be381b7aba7e8b7a9f8fcb2faa78506",
+      "sentenceCount": 7,
+      "disclosureCount": 1,
+      "captionTiming": "PCM sentence boundaries; proportional subdivisions, not word forced alignment",
+      "flags": [
+        {
+          "format": "short-2",
+          "sentenceId": "short-2-001",
+          "start": 0.0,
+          "end": 8.0,
+          "expected": "Operation Bullpen followed counterfeit memorabilia through its distribution chain, but not everyone in that chain necessarily knew about the fraud.",
+          "automatedASR": "Operation Ball Pen followed counterfeit memorabilia through its distribution chain, but not everyone in that chain necessarily knew about the fraud.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        }
+      ]
+    },
+    {
+      "format": "short-3",
+      "player": "narrated/026-short-3.html",
+      "durationSeconds": 37.8,
+      "samples": 907200,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sampleEncoding": "PCM16",
+      "audio": "media/026/05cca259acfbe7d42f75f71e910a9028e207ff00093c4a850fc0aa05d15dd493.flac",
+      "audioSha256": "05cca259acfbe7d42f75f71e910a9028e207ff00093c4a850fc0aa05d15dd493",
+      "masterWavSha256": "65f1c87a191e78e323d5f00cafd51f5bb39df3dcca2df01b20bbeff8eab44db8",
+      "masterPcmSha256": "6a430d08c096ce5fd6b10202057d0a44a11e0e377130f6a3fe4676eac3393f61",
+      "sentenceCount": 7,
+      "disclosureCount": 1,
+      "captionTiming": "PCM sentence boundaries; proportional subdivisions, not word forced alignment",
+      "flags": [
+        {
+          "format": "short-3",
+          "sentenceId": "short-3-003",
+          "start": 12.72,
+          "end": 17.24,
+          "expected": "The Justice Department announced his six-month custodial sentence in August two thousand one.",
+          "automatedASR": "The Justice Department announced a six-month custodial sentence in August 2001.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        },
+        {
+          "format": "short-3",
+          "sentenceId": "short-3-006",
+          "start": 26.68,
+          "end": 31.6,
+          "expected": "Equipment stripped of forged signatures was given to children's and community organizations.",
+          "automatedASR": "Equipment strip to Ford's signatures was given to children's and community organizations.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        },
+        {
+          "format": "short-3",
+          "sentenceId": "short-3-007",
+          "start": 31.72,
+          "end": 37.8,
+          "expected": "That provided a practical use for the equipment, but did not establish that every defrauded collector had been repaid.",
+          "automatedASR": "that provided a practical use for the equipment, but to not establish that every defrauded collector had been repaid.",
+          "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+          "status": "listening-required-not-confirmed-error"
+        }
+      ]
+    }
+  ],
+  "unresolvedListeningFlags": [
+    {
+      "format": "long",
+      "sentenceId": "long-001",
+      "start": 1.0,
+      "end": 2.2,
+      "expected": "The FBI found baseballs bearing purported signatures of Mother Teresa, but Operation Bullpen was about more than a strange name on sporting equipment.",
+      "automatedASR": "The FBI found baseball's bearing purported signatures of Mother Teresa, but Operation Bullpen was about more than a strange name on sporting equipment.",
+      "note": "Exact review window. Automated word alignment estimated 1.12–1.72 seconds; no listening judgment.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "long",
+      "sentenceId": "long-006",
+      "start": 38.8,
+      "end": 48.4,
+      "expected": "The San Diego investigation began in nineteen ninety-seven, following an earlier Chicago operation called Foul Ball that the FBI says produced fourteen convictions.",
+      "automatedASR": "The San Diego investigation began in 1997 following an earlier Chicago operation called Fall Ball that the FBI says produced 14 convictions.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "long",
+      "sentenceId": "long-008",
+      "start": 57.8,
+      "end": 67.36,
+      "expected": "Contemporary Associated Press reporting described baseball players Tony Gwynn and Mark McGwire helping investigators identify counterfeit signatures attributed to them.",
+      "automatedASR": "Contemporary Associated Press reporting described baseball players Tony Gwyn and Mark McGuire helping investigators identify counterfeit signatures attributed to them.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "long",
+      "sentenceId": "long-009",
+      "start": 67.48,
+      "end": 77.76,
+      "expected": "Gwynn reported seeing a forged version of his signature at a team gift shop in Encinitas, a reminder that recognizable names could appear in apparently ordinary retail settings.",
+      "automatedASR": "when reported seeing a forged version of a signature at a team gift shop in Encinitas, a reminder that recognizable names could appear in apparently ordinary retail settings.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "long",
+      "sentenceId": "long-011",
+      "start": 86.76,
+      "end": 95.52,
+      "expected": "The distinction between a dishonest supplier and an unsuspecting seller would matter throughout the case, because distribution did not automatically prove knowledge of fraud.",
+      "automatedASR": "The distinction between a dishonest supplier and an unsuspecting seller would matter throughout the case because distribution did not automatically prove knowledge or fraud.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "long",
+      "sentenceId": "long-012",
+      "start": 95.64,
+      "end": 104.36,
+      "expected": "A court document filed against Gregory James Marino on April eleventh, two thousand, described the government's case against one alleged participant in that chain.",
+      "automatedASR": "A court document filed against Gregory James Marino on April 11, 2000, described the government's case against one alleged participant in that chain.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "long",
+      "sentenceId": "long-014",
+      "start": 114.36,
+      "end": 124.64,
+      "expected": "Its account described undercover purchases and court-authorized intercepted communications, methods aimed at establishing more than whether a signature looked convincing to a prospective buyer.",
+      "automatedASR": "Its account described undercover purchases and court-authorize intercept the communications. Methods aimed at establishing more than whether a signature looked convincing to a prospective buyer.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "long",
+      "sentenceId": "long-022",
+      "start": 187.2,
+      "end": 196.56,
+      "expected": "To see an individually documented outcome, move forward to Nathan William Harrison, a wholesale distributor associated with a business called LNN Enterprises.",
+      "automatedASR": "To see an individually documented outcome, move forward to Nathan William Harrison, a wholesale distributor associated with a business called Allen & Enterprises.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "long",
+      "sentenceId": "long-025",
+      "start": 214.12,
+      "end": 223.0,
+      "expected": "It also said he obtained goods directly from Greg and John Marino, placing the admitted distribution activity within a supply chain rather than an isolated retail sale.",
+      "automatedASR": "It also said he obtained goods directly from Greg and John Merino placing the admitted distribution activity within a supply chain rather than an isolated retail sale.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "long",
+      "sentenceId": "long-030",
+      "start": 256.48,
+      "end": 263.12,
+      "expected": "A baseball could still be a baseball, but its claimed signature was part of what those customers believed they were purchasing.",
+      "automatedASR": "A baseball could still be a baseball, but its claims signature was part of what those customers believed they were purchasing.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "long",
+      "sentenceId": "long-034",
+      "start": 288.16,
+      "end": 297.92,
+      "expected": "Its financial statistics also require care, because estimates of a counterfeit market, seized property, restitution, and prevented losses measure different things.",
+      "automatedASR": "Its financial statistics also require care because estimates of a counterfeit market, seized property, restitution, and prevented losses measured different things.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "long",
+      "sentenceId": "long-035",
+      "start": 298.04,
+      "end": 306.8,
+      "expected": "A market estimate is not a finding that this particular group stole that amount, and a valuation of seized merchandise is not cash returned to victims.",
+      "automatedASR": "A market estimate is not a finding that this particular group stole that amount. And evaluation of seized merchandise is not cash return to victims.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "long",
+      "sentenceId": "long-037",
+      "start": 317.48,
+      "end": 325.64,
+      "expected": "At a San Diego press conference in July two thousand five, the aftermath took a practical form that was different from a conviction or a restitution payment.",
+      "automatedASR": "At a San Diego press conference in July to early five, the aftermath took a practical form that was different from a conviction or restitution payment.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "long",
+      "sentenceId": "long-040",
+      "start": 343.76,
+      "end": 354.12,
+      "expected": "Operation Bullpen exposed both counterfeit goods and admitted criminal distribution, while its records also warn against treating every seller or every allegation as equally proved.",
+      "automatedASR": "Operation Ball Pen exposed both counterfeit goods and admitted criminal distribution, while its records also warn against treating every seller or every allegation is equally proved.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "short-1",
+      "sentenceId": "short-1-004",
+      "start": 16.24,
+      "end": 23.08,
+      "expected": "Contemporary reporting described Tony Gwynn and Mark McGwire helping identify counterfeit signatures attributed to them.",
+      "automatedASR": "Contemporary reporting, the scribe Tony Gwen and Mark McWhire helping identify counterfeit signatures attributed to them.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "short-2",
+      "sentenceId": "short-2-001",
+      "start": 0.0,
+      "end": 8.0,
+      "expected": "Operation Bullpen followed counterfeit memorabilia through its distribution chain, but not everyone in that chain necessarily knew about the fraud.",
+      "automatedASR": "Operation Ball Pen followed counterfeit memorabilia through its distribution chain, but not everyone in that chain necessarily knew about the fraud.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "short-3",
+      "sentenceId": "short-3-003",
+      "start": 12.72,
+      "end": 17.24,
+      "expected": "The Justice Department announced his six-month custodial sentence in August two thousand one.",
+      "automatedASR": "The Justice Department announced a six-month custodial sentence in August 2001.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "short-3",
+      "sentenceId": "short-3-006",
+      "start": 26.68,
+      "end": 31.6,
+      "expected": "Equipment stripped of forged signatures was given to children's and community organizations.",
+      "automatedASR": "Equipment strip to Ford's signatures was given to children's and community organizations.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    },
+    {
+      "format": "short-3",
+      "sentenceId": "short-3-007",
+      "start": 31.72,
+      "end": 37.8,
+      "expected": "That provided a practical use for the equipment, but did not establish that every defrauded collector had been repaid.",
+      "automatedASR": "that provided a practical use for the equipment, but to not establish that every defrauded collector had been repaid.",
+      "note": "Exact sentence PCM window; word boundaries have not been listening-verified.",
+      "status": "listening-required-not-confirmed-error"
+    }
+  ],
+  "illustrations": "AI illustrations include invented connective scenes, not actual footage or evidence. Disclosure is spoken exactly once per format.",
+  "files": [
+    {
+      "path": "media/026/05cca259acfbe7d42f75f71e910a9028e207ff00093c4a850fc0aa05d15dd493.flac",
+      "sha256": "05cca259acfbe7d42f75f71e910a9028e207ff00093c4a850fc0aa05d15dd493",
+      "bytes": 970790
+    },
+    {
+      "path": "media/026/23028913e3c9f3ce73de400cdf30052a5c92c44421c0e8e29dff04416d4a9641.webp",
+      "sha256": "23028913e3c9f3ce73de400cdf30052a5c92c44421c0e8e29dff04416d4a9641",
+      "bytes": 36886
+    },
+    {
+      "path": "media/026/31b19373e8987ed3591579513da3fcdb2b3f3c0301948f91c24def59a3da82a9.webp",
+      "sha256": "31b19373e8987ed3591579513da3fcdb2b3f3c0301948f91c24def59a3da82a9",
+      "bytes": 77790
+    },
+    {
+      "path": "media/026/348e45e31b0fcfd47f9163ee6ddc80ea5d667d5c62392ab7df996894e0b8fc57.webp",
+      "sha256": "348e45e31b0fcfd47f9163ee6ddc80ea5d667d5c62392ab7df996894e0b8fc57",
+      "bytes": 19568
+    },
+    {
+      "path": "media/026/3ffe0d611297229c1509a73cd70fd136c2842d40642db1f22e5c0b01b7a174b1.flac",
+      "sha256": "3ffe0d611297229c1509a73cd70fd136c2842d40642db1f22e5c0b01b7a174b1",
+      "bytes": 9331603
+    },
+    {
+      "path": "media/026/47248965493cbbe3a1355afd143fc1ffaf446e87deaa55de585d34c1b8f54ddb.webp",
+      "sha256": "47248965493cbbe3a1355afd143fc1ffaf446e87deaa55de585d34c1b8f54ddb",
+      "bytes": 64678
+    },
+    {
+      "path": "media/026/846e31aba223a2b834e72d0bbcb8d02c8d1eb62e6b0f957e9af9185f9e530518.webp",
+      "sha256": "846e31aba223a2b834e72d0bbcb8d02c8d1eb62e6b0f957e9af9185f9e530518",
+      "bytes": 105426
+    },
+    {
+      "path": "media/026/8e4ebe4e629978daffcbe7b0fca3a99cf5e89b3c597f8d6668346b53a891dd5d.webp",
+      "sha256": "8e4ebe4e629978daffcbe7b0fca3a99cf5e89b3c597f8d6668346b53a891dd5d",
+      "bytes": 32498
+    },
+    {
+      "path": "media/026/a01c3c67dfeba5339fb4e63fc37653a5c9e2ef8d48ce5d0718b7b1163ffaeadb.webp",
+      "sha256": "a01c3c67dfeba5339fb4e63fc37653a5c9e2ef8d48ce5d0718b7b1163ffaeadb",
+      "bytes": 45394
+    },
+    {
+      "path": "media/026/a4dc5e113395d88380e0994108e1d5d2287c92801273e3524abc2bf5ac6ad620.webp",
+      "sha256": "a4dc5e113395d88380e0994108e1d5d2287c92801273e3524abc2bf5ac6ad620",
+      "bytes": 48848
+    },
+    {
+      "path": "media/026/acd05c2b565217ddadc05631be1a0984c61c42d554d67e46684b2025c32754a8.webp",
+      "sha256": "acd05c2b565217ddadc05631be1a0984c61c42d554d67e46684b2025c32754a8",
+      "bytes": 37382
+    },
+    {
+      "path": "media/026/b4c03fccb29b93e0af3d2546de1337e736027bcc8346aa0deea0d6b380822928.webp",
+      "sha256": "b4c03fccb29b93e0af3d2546de1337e736027bcc8346aa0deea0d6b380822928",
+      "bytes": 122554
+    },
+    {
+      "path": "media/026/b6f09d3146b5f35393021249f3e782d843e8e253f4e909824be93bdf12257e68.flac",
+      "sha256": "b6f09d3146b5f35393021249f3e782d843e8e253f4e909824be93bdf12257e68",
+      "bytes": 1023446
+    },
+    {
+      "path": "media/026/bf561c01907f54b2cc6cc89e88e639594348fe9f0532be21f0a1d33311271b36.webp",
+      "sha256": "bf561c01907f54b2cc6cc89e88e639594348fe9f0532be21f0a1d33311271b36",
+      "bytes": 132776
+    },
+    {
+      "path": "media/026/e773a8391536d57fea44c645449e5dda859071ebc0f529bae76f0c63d92e2388.webp",
+      "sha256": "e773a8391536d57fea44c645449e5dda859071ebc0f529bae76f0c63d92e2388",
+      "bytes": 72736
+    },
+    {
+      "path": "media/026/f5c77199eb803015f5c2527a32ace7edd851c1b4899179cff5be48c538676333.flac",
+      "sha256": "f5c77199eb803015f5c2527a32ace7edd851c1b4899179cff5be48c538676333",
+      "bytes": 1018414
+    },
+    {
+      "path": "narrated/026-long.html",
+      "sha256": "a0e2eea1ffa5a4f408d1d9e77c22fcbb834f61fbd6d7135ac784f4e5d7a440c8",
+      "bytes": 93515
+    },
+    {
+      "path": "narrated/026-short-1.html",
+      "sha256": "b33cbb3ca7b76bf6af23c26f6bbff8947bd589d1cc43bd7c1a5fdfd6c7364c7b",
+      "bytes": 27155
+    },
+    {
+      "path": "narrated/026-short-2.html",
+      "sha256": "f0c9e56c165f48df4371cb67be9a5f31e943413484a9d1bf9f70f037bda816e4",
+      "bytes": 26920
+    },
+    {
+      "path": "narrated/026-short-3.html",
+      "sha256": "689dc88f0ca152490c4ad9f4458d0cfe0789be0fe6b8a38fa1bb6513f97bfc6e",
+      "bytes": 28786
+    }
+  ]
+}
