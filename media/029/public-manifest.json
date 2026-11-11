@@ -1,0 +1,494 @@
+{
+  "schema_version": 1,
+  "scope": "029-hatton-garden",
+  "formats": [
+    {
+      "id": "029-hatton-garden-long",
+      "format": "long",
+      "path": "narrated/029-long.html",
+      "sha256": "938926861ddf2bfe784d79c990d974d3c5fdbb82347813ded37db42d5c77b6ab",
+      "bytes": 116236,
+      "duration_seconds": 344.32,
+      "samples": 8263680,
+      "sample_rate": 24000,
+      "source_audio_sha256": "36df26e0665a55d9cbe14fbbaaacf5cf6fb4ea4f7d4814de8b98e870afd572be",
+      "audio_parts": [
+        {
+          "path": "media/029/6a3ba6f8501735d563dab65cb9809208ce04a6c34129628226ec202b303956be.bin",
+          "sha256": "6a3ba6f8501735d563dab65cb9809208ce04a6c34129628226ec202b303956be",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/ad62d2ea385caf990ff926a5f939caa634f8649f04c00bd804566ab71e8689cf.bin",
+          "sha256": "ad62d2ea385caf990ff926a5f939caa634f8649f04c00bd804566ab71e8689cf",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/5e8fcdd146c3d6012527bd3c03d1b7ead136c35dca415b1f47d3fdaf8d9c07e6.bin",
+          "sha256": "5e8fcdd146c3d6012527bd3c03d1b7ead136c35dca415b1f47d3fdaf8d9c07e6",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/988e1b62fd804e475ade84dd8bb0ad778b794b22dc31c9dabd4997ea7009a9e7.bin",
+          "sha256": "988e1b62fd804e475ade84dd8bb0ad778b794b22dc31c9dabd4997ea7009a9e7",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/fe5b6460d8d88f4231fbce633be39bc8d0f85534aa58261d341c87472e86f9b5.bin",
+          "sha256": "fe5b6460d8d88f4231fbce633be39bc8d0f85534aa58261d341c87472e86f9b5",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/582951d18c20ba827f65b9cb2e857f9d76e97e129c4577ecd835ffaeac49a2ba.bin",
+          "sha256": "582951d18c20ba827f65b9cb2e857f9d76e97e129c4577ecd835ffaeac49a2ba",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/ed95e7015432d61af962ec1b01f648cea1b4ade3b94257f29bffe9725339673a.bin",
+          "sha256": "ed95e7015432d61af962ec1b01f648cea1b4ade3b94257f29bffe9725339673a",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/a312bed01b06eff0aa973e2cbecc079c95a4d96fb0850bca5faaed5cc3916571.bin",
+          "sha256": "a312bed01b06eff0aa973e2cbecc079c95a4d96fb0850bca5faaed5cc3916571",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/0c2e1aef026136fe8c31b1b7f127f90fca53303f85c26edbed2ac9b9eecccd0c.bin",
+          "sha256": "0c2e1aef026136fe8c31b1b7f127f90fca53303f85c26edbed2ac9b9eecccd0c",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/65cf9b0a24f13c72c31e6f1186cd2a5d448919c56b64efac02df4a0c23889dd8.bin",
+          "sha256": "65cf9b0a24f13c72c31e6f1186cd2a5d448919c56b64efac02df4a0c23889dd8",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/00ff2f31ba8855e2b656f1a2935695c71b31e926b49645b4b7b4427d3c03de15.bin",
+          "sha256": "00ff2f31ba8855e2b656f1a2935695c71b31e926b49645b4b7b4427d3c03de15",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/d4ec6e71c0e1dcafd92c5f39f08f90bf287e05882c17fa7a56889706c09d6b7e.bin",
+          "sha256": "d4ec6e71c0e1dcafd92c5f39f08f90bf287e05882c17fa7a56889706c09d6b7e",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/0acd022e3ac7fb94265b76723c0c913ff42504ddef1335174da44cab16187290.bin",
+          "sha256": "0acd022e3ac7fb94265b76723c0c913ff42504ddef1335174da44cab16187290",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/ef2c5b4809e3f07f6a5f7ff12ec6967b6dafe659dbf64969ad546a8b37d85463.bin",
+          "sha256": "ef2c5b4809e3f07f6a5f7ff12ec6967b6dafe659dbf64969ad546a8b37d85463",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/eed859081ad993bc4338cbeab2124980b1defe071eb0ccc97eec93388039b488.bin",
+          "sha256": "eed859081ad993bc4338cbeab2124980b1defe071eb0ccc97eec93388039b488",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/633c8c2e1cf0be8be37b6f429f9b610e938a16abefa9ba7f68d9a6c347e87976.bin",
+          "sha256": "633c8c2e1cf0be8be37b6f429f9b610e938a16abefa9ba7f68d9a6c347e87976",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/5121dfd1053cb7edd92192203ad2073282210471f7845e65b4d212c54d0f87f7.bin",
+          "sha256": "5121dfd1053cb7edd92192203ad2073282210471f7845e65b4d212c54d0f87f7",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/ead8122d6c545c897a5daf8ade8a691528f29c65351719234d0dd5eb717ae4b2.bin",
+          "sha256": "ead8122d6c545c897a5daf8ade8a691528f29c65351719234d0dd5eb717ae4b2",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/6a51feab0146de3d51a554ac1e1258f9b870e81221ca3ce58fce3ea2330b4029.bin",
+          "sha256": "6a51feab0146de3d51a554ac1e1258f9b870e81221ca3ce58fce3ea2330b4029",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/443446269c2cde5660b651717a54db944e7acb55dabb4cb6a97dd204e3c930dd.bin",
+          "sha256": "443446269c2cde5660b651717a54db944e7acb55dabb4cb6a97dd204e3c930dd",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/e5612c5c7c803b36795d9117800c19882502fb5989302718e39fa9d79652e632.bin",
+          "sha256": "e5612c5c7c803b36795d9117800c19882502fb5989302718e39fa9d79652e632",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/74eabbcdf3892d8a12238ee6bac76e3657639e59a44ff66e392ba243f8a62742.bin",
+          "sha256": "74eabbcdf3892d8a12238ee6bac76e3657639e59a44ff66e392ba243f8a62742",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/7564ec47a72b35b1f6c23148b7f041122cb64f97b86c9955e5330463cf0551c1.bin",
+          "sha256": "7564ec47a72b35b1f6c23148b7f041122cb64f97b86c9955e5330463cf0551c1",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/0deeb74beb9913564c61e66c7bdb483a40720f2171a84e955e69a6fe78267fb2.bin",
+          "sha256": "0deeb74beb9913564c61e66c7bdb483a40720f2171a84e955e69a6fe78267fb2",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/f79becedc94cbe5905b47be0633813d3297b200059eb4d6527acc58be0b6bbb0.bin",
+          "sha256": "f79becedc94cbe5905b47be0633813d3297b200059eb4d6527acc58be0b6bbb0",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/f5d8b3f7a414c07ff046363303eb430c8b3c5cf1101405ecb7aff067e1dc5c49.bin",
+          "sha256": "f5d8b3f7a414c07ff046363303eb430c8b3c5cf1101405ecb7aff067e1dc5c49",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/426b738c4bd7c25525629e295bf9207943e1e8664c99f124c12d55d2db176d22.bin",
+          "sha256": "426b738c4bd7c25525629e295bf9207943e1e8664c99f124c12d55d2db176d22",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/3e4c9d52a3ede7251706a3eca5804f6b2e65828f7bb7b70e9ad158194159028d.bin",
+          "sha256": "3e4c9d52a3ede7251706a3eca5804f6b2e65828f7bb7b70e9ad158194159028d",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/33ac60c09af28f5a9d7d9bf2820bc0cea952d27aa4844c0bb79389b46371d9d6.bin",
+          "sha256": "33ac60c09af28f5a9d7d9bf2820bc0cea952d27aa4844c0bb79389b46371d9d6",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/e0ac946d68b360f887130510ac087509a7346f8f9f71207ac578989efb50340b.bin",
+          "sha256": "e0ac946d68b360f887130510ac087509a7346f8f9f71207ac578989efb50340b",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/b11d5a20bc8b7a48fd92aa004ea4b8f8e1448d16e785dc0dcfeb82e54e894c11.bin",
+          "sha256": "b11d5a20bc8b7a48fd92aa004ea4b8f8e1448d16e785dc0dcfeb82e54e894c11",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/a2a3f20dc039a00624e6512253a2f605954e1a56d29b137185b39481f0589039.bin",
+          "sha256": "a2a3f20dc039a00624e6512253a2f605954e1a56d29b137185b39481f0589039",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/5b91aa2c38c15e271c2d8c549be19f9a18b9bda932cfa585c2367fc1b76036bd.bin",
+          "sha256": "5b91aa2c38c15e271c2d8c549be19f9a18b9bda932cfa585c2367fc1b76036bd",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/7f7f2c14b109d543c41154ad54b28f9ef09cabbe82dca29a36c6ae8a9075fbc0.bin",
+          "sha256": "7f7f2c14b109d543c41154ad54b28f9ef09cabbe82dca29a36c6ae8a9075fbc0",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/4510e1d2bf3545148ae42bb5d4a48ec7000de171f9f9a6fb6d8ee1966e66213a.bin",
+          "sha256": "4510e1d2bf3545148ae42bb5d4a48ec7000de171f9f9a6fb6d8ee1966e66213a",
+          "bytes": 12047
+        }
+      ],
+      "audio_bytes": 8924943,
+      "audio_byte_identical_to_generated_master": true,
+      "canonical_assembly_sha256": "764578030ef9f09d080a762396baf718f84978bae4c05c2931611f12c98e58e3",
+      "caption_cues": 92,
+      "scene_count": 45,
+      "raw_asr_edits_retained": 95,
+      "review_windows": 29,
+      "priority_windows": 4,
+      "owner_approved": false,
+      "fully_qa_approved": false,
+      "listening_required": true
+    },
+    {
+      "id": "029-hatton-garden-short-1",
+      "format": "short-1",
+      "path": "narrated/029-short-1.html",
+      "sha256": "49686397cd2e1d47cba28b31705a7925ca0bef4e2908a6916e3ca7cd875de3c4",
+      "bytes": 24528,
+      "duration_seconds": 42.88,
+      "samples": 1029120,
+      "sample_rate": 24000,
+      "source_audio_sha256": "3cda9860cb3c17dbb34abe8a137bb88e37fd1ec1a0153b9cdae7400249274b94",
+      "audio_parts": [
+        {
+          "path": "media/029/252dc26c3308bef766edad596a045eb9831d982b0a4b13acea3c6779dd197d1f.bin",
+          "sha256": "252dc26c3308bef766edad596a045eb9831d982b0a4b13acea3c6779dd197d1f",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/028371cb65f35772f2a5a3ca1c29e3e388ff8aa2e065d222359fd6ce2e775151.bin",
+          "sha256": "028371cb65f35772f2a5a3ca1c29e3e388ff8aa2e065d222359fd6ce2e775151",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/a1240deae9f5a601ee2531c781db8f9e4995b9d3017bab164d2ed1940406e701.bin",
+          "sha256": "a1240deae9f5a601ee2531c781db8f9e4995b9d3017bab164d2ed1940406e701",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/fdf23d3a42a6c3d08e8dde964ba140622285fb259d3308dc54674d95153d8785.bin",
+          "sha256": "fdf23d3a42a6c3d08e8dde964ba140622285fb259d3308dc54674d95153d8785",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/554c3c0ab8ee135f08fe43a86ff6f960109a22022d07da9d936a0d01d7e0f4d0.bin",
+          "sha256": "554c3c0ab8ee135f08fe43a86ff6f960109a22022d07da9d936a0d01d7e0f4d0",
+          "bytes": 82117
+        }
+      ],
+      "audio_bytes": 1130693,
+      "audio_byte_identical_to_generated_master": true,
+      "canonical_assembly_sha256": "024e928c67a1ca1f8656859c012315d74c592a51ff080145514d44af4b23b220",
+      "caption_cues": 17,
+      "scene_count": 8,
+      "raw_asr_edits_retained": 15,
+      "review_windows": 6,
+      "priority_windows": 2,
+      "owner_approved": false,
+      "fully_qa_approved": false,
+      "listening_required": true
+    },
+    {
+      "id": "029-hatton-garden-short-2",
+      "format": "short-2",
+      "path": "narrated/029-short-2.html",
+      "sha256": "5ed8287f93a16bd37f3a75e357c939507dd9e254e56be1e172b27680a59cac20",
+      "bytes": 20511,
+      "duration_seconds": 38.76,
+      "samples": 930240,
+      "sample_rate": 24000,
+      "source_audio_sha256": "fdb1e5b9bd2f3f2214b3c840f53b21e98aa80a03dbf7e76769d8fd7ec570c1f1",
+      "audio_parts": [
+        {
+          "path": "media/029/cc5d2efb516880bf64477c7c4099e52324a1d561000c3d655c6c12b3b6f6024b.bin",
+          "sha256": "cc5d2efb516880bf64477c7c4099e52324a1d561000c3d655c6c12b3b6f6024b",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/6024b54c3cb66d0665e7fb9c759e3f97c4ff9f4f9e8ab8681bc281cfa6bb0cd8.bin",
+          "sha256": "6024b54c3cb66d0665e7fb9c759e3f97c4ff9f4f9e8ab8681bc281cfa6bb0cd8",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/246d7a3175ee188e6259ea28a96332b70e2a7436e9fa815385a939e055b6d977.bin",
+          "sha256": "246d7a3175ee188e6259ea28a96332b70e2a7436e9fa815385a939e055b6d977",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/00720391675a0a394681ccb61000615a8bf25786ad2b1a6f883edc1e9276a714.bin",
+          "sha256": "00720391675a0a394681ccb61000615a8bf25786ad2b1a6f883edc1e9276a714",
+          "bytes": 216625
+        }
+      ],
+      "audio_bytes": 1003057,
+      "audio_byte_identical_to_generated_master": true,
+      "canonical_assembly_sha256": "96615ee82df2ff72db57d8408ea335033cd905cedc167919b0ff8a44388e94a8",
+      "caption_cues": 16,
+      "scene_count": 7,
+      "raw_asr_edits_retained": 10,
+      "review_windows": 4,
+      "priority_windows": 1,
+      "owner_approved": false,
+      "fully_qa_approved": false,
+      "listening_required": true
+    },
+    {
+      "id": "029-hatton-garden-short-3",
+      "format": "short-3",
+      "path": "narrated/029-short-3.html",
+      "sha256": "ce5f2b6491298195252784af731ab42a9575f50613fe79c0d8d296fbb8ab9805",
+      "bytes": 24963,
+      "duration_seconds": 36.0,
+      "samples": 864000,
+      "sample_rate": 24000,
+      "source_audio_sha256": "1b5f9cdfb789e461df5c782ce5fc34758d3ab9633fce77870d6ee7e511144d41",
+      "audio_parts": [
+        {
+          "path": "media/029/5326c3a4cd6f78b587ff3a53c04d01d185fa00269e17c14cf98f4113d06ad26f.bin",
+          "sha256": "5326c3a4cd6f78b587ff3a53c04d01d185fa00269e17c14cf98f4113d06ad26f",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/f891b48e74179277381de6a6c356095f540c002a93dec1b1d666c21b39e1156c.bin",
+          "sha256": "f891b48e74179277381de6a6c356095f540c002a93dec1b1d666c21b39e1156c",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/b68d0716b70a7fc753509524caa9f4fa557f71904bda5327e7c085af4da441c0.bin",
+          "sha256": "b68d0716b70a7fc753509524caa9f4fa557f71904bda5327e7c085af4da441c0",
+          "bytes": 262144
+        },
+        {
+          "path": "media/029/b4b66aaef28631a198aa5c4eb8dc13ce7c1f5bfbaff7b52f9e2a02560d248656.bin",
+          "sha256": "b4b66aaef28631a198aa5c4eb8dc13ce7c1f5bfbaff7b52f9e2a02560d248656",
+          "bytes": 148229
+        }
+      ],
+      "audio_bytes": 934661,
+      "audio_byte_identical_to_generated_master": true,
+      "canonical_assembly_sha256": "9bf143a65cd3d4c1a818fcd14716112219b8a08994faf6bb55e4cfc65b806bfc",
+      "caption_cues": 16,
+      "scene_count": 7,
+      "raw_asr_edits_retained": 16,
+      "review_windows": 6,
+      "priority_windows": 4,
+      "owner_approved": false,
+      "fully_qa_approved": false,
+      "listening_required": true
+    }
+  ],
+  "priority_listening_windows": [
+    {
+      "sentence_id": "long-040",
+      "text": "A final legal correction came in July two thousand twenty-one, when the Jersey Evening Post reported that Seed's confiscation appeal had succeeded in part.",
+      "start_sample": 7265280,
+      "end_sample": 7478400,
+      "start_seconds": 302.72,
+      "end_seconds": 311.6,
+      "reason": "2021 date, possible article/disfluency, Chatila and Hatton Garden offences recognition/clarity",
+      "status": "Listening review required; ASR candidate, not a confirmed defect",
+      "format": "long",
+      "player_path": "narrated/029-long.html",
+      "href": "../../narrated/029-long.html?t=302.72&end=311.6&review=1"
+    },
+    {
+      "sentence_id": "long-029",
+      "text": "The overall sentence was ten years, and the identity of Basil had now been tested in a prosecution that ended in conviction.",
+      "start_sample": 5170560,
+      "end_sample": 5327040,
+      "start_seconds": 215.44,
+      "end_seconds": 221.96,
+      "reason": "2021 date, possible article/disfluency, Chatila and Hatton Garden offences recognition/clarity",
+      "status": "Listening review required; ASR candidate, not a confirmed defect",
+      "format": "long",
+      "player_path": "narrated/029-long.html",
+      "href": "../../narrated/029-long.html?t=215.44&end=221.96&review=1"
+    },
+    {
+      "sentence_id": "long-030",
+      "text": "But the jury acquitted Seed of the separate conspiracy allegation concerning the earlier Chatila burglary, a different case heard at the same trial.",
+      "start_sample": 5329920,
+      "end_sample": 5520960,
+      "start_seconds": 222.08,
+      "end_seconds": 230.04,
+      "reason": "2021 date, possible article/disfluency, Chatila and Hatton Garden offences recognition/clarity",
+      "status": "Listening review required; ASR candidate, not a confirmed defect",
+      "format": "long",
+      "player_path": "narrated/029-long.html",
+      "href": "../../narrated/029-long.html?t=222.08&end=230.04&review=1"
+    },
+    {
+      "sentence_id": "long-043",
+      "text": "This was a limited correction to confiscation, not an acquittal or the reversal of the ten-year sentence for the Hatton Garden offences.",
+      "start_sample": 7868160,
+      "end_sample": 8036160,
+      "start_seconds": 327.84,
+      "end_seconds": 334.84,
+      "reason": "2021 date, possible article/disfluency, Chatila and Hatton Garden offences recognition/clarity",
+      "status": "Listening review required; ASR candidate, not a confirmed defect",
+      "format": "long",
+      "player_path": "narrated/029-long.html",
+      "href": "../../narrated/029-long.html?t=327.84&end=334.84&review=1"
+    },
+    {
+      "sentence_id": "short-1-004",
+      "text": "In March two thousand sixteen, Collins, Jones, Perkins and Lincoln each received seven years; Wood received six.",
+      "start_sample": 585600,
+      "end_sample": 755520,
+      "start_seconds": 24.4,
+      "end_seconds": 31.48,
+      "reason": "Wood received six / Michael Seed recognition",
+      "status": "Listening review required; ASR candidate, not a confirmed defect",
+      "format": "short-1",
+      "player_path": "narrated/029-short-1.html",
+      "href": "../../narrated/029-short-1.html?t=24.4&end=31.48&review=1"
+    },
+    {
+      "sentence_id": "short-1-007",
+      "text": "Basil remained at large, although police had already identified Michael Seed.",
+      "start_sample": 924480,
+      "end_sample": 1029120,
+      "start_seconds": 38.52,
+      "end_seconds": 42.88,
+      "reason": "Wood received six / Michael Seed recognition",
+      "status": "Listening review required; ASR candidate, not a confirmed defect",
+      "format": "short-1",
+      "player_path": "narrated/029-short-1.html",
+      "href": "../../narrated/029-short-1.html?t=38.52&end=42.88&review=1"
+    },
+    {
+      "sentence_id": "short-2-006",
+      "text": "He was acquitted of a separate Chatila burglary conspiracy charge, which the Hatton Garden verdict did not prove.",
+      "start_sample": 782400,
+      "end_sample": 930240,
+      "start_seconds": 32.6,
+      "end_seconds": 38.76,
+      "reason": "Chatila name recognition",
+      "status": "Listening review required; ASR candidate, not a confirmed defect",
+      "format": "short-2",
+      "player_path": "narrated/029-short-2.html",
+      "href": "../../narrated/029-short-2.html?t=32.6&end=38.76&review=1"
+    },
+    {
+      "sentence_id": "short-3-001",
+      "text": "Hatton Garden's convictions did not establish that the stolen property had come back.",
+      "start_sample": 0,
+      "end_sample": 104640,
+      "start_seconds": 0.0,
+      "end_seconds": 4.36,
+      "reason": "Hatton name, said/had, 2021 date, short-word fidelity",
+      "status": "Listening review required; ASR candidate, not a confirmed defect",
+      "format": "short-3",
+      "player_path": "narrated/029-short-3.html",
+      "href": "../../narrated/029-short-3.html?t=0&end=4.36&review=1"
+    },
+    {
+      "sentence_id": "short-3-003",
+      "text": "Police said just over one third of the property had been recovered by then.",
+      "start_sample": 345600,
+      "end_sample": 432960,
+      "start_seconds": 14.4,
+      "end_seconds": 18.04,
+      "reason": "Hatton name, said/had, 2021 date, short-word fidelity",
+      "status": "Listening review required; ASR candidate, not a confirmed defect",
+      "format": "short-3",
+      "player_path": "narrated/029-short-3.html",
+      "href": "../../narrated/029-short-3.html?t=14.4&end=18.04&review=1"
+    },
+    {
+      "sentence_id": "short-3-004",
+      "text": "Reporting on his July two thousand twenty-one appeal said some unclaimed jewellery should not count as available to him.",
+      "start_sample": 435840,
+      "end_sample": 592320,
+      "start_seconds": 18.16,
+      "end_seconds": 24.68,
+      "reason": "Hatton name, said/had, 2021 date, short-word fidelity",
+      "status": "Listening review required; ASR candidate, not a confirmed defect",
+      "format": "short-3",
+      "player_path": "narrated/029-short-3.html",
+      "href": "../../narrated/029-short-3.html?t=18.16&end=24.68&review=1"
+    },
+    {
+      "sentence_id": "short-3-006",
+      "text": "The correction concerned confiscation; an order to pay still wasn't proof that victims had been repaid in full by the time of that decision.",
+      "start_sample": 694080,
+      "end_sample": 864000,
+      "start_seconds": 28.92,
+      "end_seconds": 36.0,
+      "reason": "Hatton name, said/had, 2021 date, short-word fidelity",
+      "status": "Listening review required; ASR candidate, not a confirmed defect",
+      "format": "short-3",
+      "player_path": "narrated/029-short-3.html",
+      "href": "../../narrated/029-short-3.html?t=28.92&end=36&review=1"
+    }
+  ],
+  "raw_asr_edits_retained_total": 136,
+  "priority_windows_retained_total": 11,
+  "timing_authority": "Persisted24kHzPCM sample boundaries; audio.currentTime authoritative; no ASR timestamps used for sync.",
+  "review_notice_path": "media/029/review-notice.html",
+  "status": "Public review only; listening required; not owner or fullyQA approved",
+  "codec": "Byte-identical FLAC reconstructed from verified bounded binary parts; no transcoding",
+  "privacy": "Public render/review allowlist only. No voice reference, speaker embeddings, model/checkpoint metadata, privateSpace identifiers or private filesystem paths."
+}
